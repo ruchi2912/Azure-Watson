@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Automated Vehicle Diagnostics</title>
+      <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <body>
+<div class="container">
+	<section id="content">
+		<form action="">
+			<h1>Automated Vehicle Diagnostics</h1>
+			<div>
+				<input type="text" placeholder="Username" required="" id="username" />
+			</div>
+			<div>
+				<input type="password" placeholder="Password" required="" id="password" />
+			</div>
+			<div style="padding: 25px">
+				<a id="submit-btn"  onclick="return doClick();" class="button-login">Log in</a>
+			</div>
+		</form><!-- form -->
+		<!-- button -->
+	</section><!-- content -->
+</div><!-- container -->
+</body>
+    <script src="js/login.js"></script>
+	<script>
+function doClick() {
+   if (document.getElementById("username").value == "engineer489"){
+       window.location.href = "http://localhost:6004/admin";
+   }
+   else
+       window.location.href = "http://localhost:6004/chat";
+}
+</script>
+</body>
+</html>
