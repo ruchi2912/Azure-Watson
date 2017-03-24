@@ -156,6 +156,7 @@ var ConversationPanel = (function() {
   // Constructs new DOM element from a message payload
   function buildMessageDomElements(newPayload, isUser) {
     var textArray = isUser ? newPayload.input.text : newPayload.output.text;
+    var tableContext = isUser ? null : newPayload.output.context;
     if (Object.prototype.toString.call( textArray ) !== '[object Array]') {
       textArray = [textArray];
     }
@@ -163,6 +164,13 @@ var ConversationPanel = (function() {
 
     textArray.forEach(function(currentText) {
       if (currentText) {
+    	  if(tableContext != null && tableContext.F1 == "resin"){
+    		  document.getElementById("table1").style.display = "none";
+    		  document.getElementById("table2").style.display = "block";
+    	  }else if(tableContext != null && tableContext.F1 == "Prepacked"){
+    		  document.getElementById("table1").style.display = "block";
+    		  document.getElementById("table2").style.display = "none";
+    	  }
         var messageJson = {
           // <div class='segments'>
           'tagName': 'div',
@@ -178,7 +186,7 @@ var ConversationPanel = (function() {
               'children': [{
                 // <p>{messageText}</p>
                 'tagName': 'p',
-                'text': currentText + "Hello"
+                'text': currentText
               }]
             }]
           }]

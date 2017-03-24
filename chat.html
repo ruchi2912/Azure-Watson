@@ -16,7 +16,7 @@
   
   .w3-tangerine {
   font-family: 'Tangerine', serif;
-  font-size: xx-large;
+  font-size: -webkit-xxx-large;
   font-weight: bold;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .header .image {
-    background: url("photo.png") 
+    background: url("photo1.png") 
                 no-repeat;
     width: 510px;
     height: 86px;
@@ -48,38 +48,88 @@
   </style>
 </head>
 <body>
+<img alt="TCS Logo" src="photo2.png" style="position: absolute;top: 0;right: 0;height: 86px;">
 <div class="header">
     <div class="w3-display-topmiddle w3-hide-small"><p class="w3-tangerine">
-TCS GE Demo
-</p></div><div class="image"></div>
+Chatbot Demo
+</p>
+</div><div class="image"></div>
 </div>
 
 <div class="w3-bar w3-border w3-light-grey">
   <a style="width:33.33%" href="#" class="w3-bar-item w3-button "></a>
   <a style="width:33.33%" href="#" class="w3-bar-item w3-button w3-mobile"></a>
-  <a style="width:23.33%" href="#" class="w3-bar-item w3-button w3-mobile"></a>
+  <a style="width:23.33%" href="#" class="w3-bar-item w3-button w3-mobile">My Orders</a>
   <a style="width:10%" href="http://localhost:6004/login" class="w3-bar-item w3-button w3-mobile">Log Out</a>
 </div>
   <div class="w3-cell-row" style="border-spacing:30px">
-  <div class="w3-container w3-cell">
-	<div class="w3-content w3-section" style="max-width:500px">
-	  	
+	<div class="w3-responsive" id="table1" style="max-width: 800px;max-height: 500;display:none">
+	  	<table class="w3-table-all">
+						<thead>
+							<tr>
+								<th>Product code</th><th>Product name</th><th>Pack size</th><th>Requirement</th><th>Binding capacity </th>
+							</tr>
+						</thead><tbody>
+							<tr>
+								<td>17127901</td><td>rProtein A Sepharose Fast Flow</td><td>5 ml</td><td>High binding capacity or scalability</td><td>~ 50 mg human lgG/ml</td>
+							</tr>
+							<tr>
+								<td>17127902</td><td>rProtein A Sepharose Fast Flow</td><td>25 ml</td><td>High binding capacity or scalability</td><td>~ 50 mg human lgG/ml</td>
+							</tr>
+							<tr>
+								<td>17127903</td><td>rProtein A Sepharose Fast Flow</td><td>200 ml</td><td>High binding capacity or scalability</td><td>~ 50 mg human lgG/ml</td>
+							</tr>
+						</tbody>
+					</table>
   	</div>
-  </div>
+  	<div class="w3-responsive" id="table2" style="max-width: 800px;max-height: 500;display:none">
+  	<table class="w3-table-all">
+						<thead>
+							<tr>
+								<th>Product code</th><th>Product name</th><th>Format</th><th>Requirement</th><th>Works with</th><th>Binding capacity</th><th>Column size</th>
+							</tr>
+						</thead><tbody>
+							<tr>
+								<td>28967056</td><td>Protein A Mag Sepharose Xtra</td><td>Magnetic beads</td><td>To use a magnetic device</td><td>Magnetic device</td><td>27 mg human IgG/ml</td><td>Not applicable</td>
+							</tr>
+							<tr>
+								<td>28903133</td><td>Protein A HP MultiTrap</td><td>96-well plate</td><td>High throughput</td><td>Centrifuge, vacuum, or liquid handling workstation</td><td>0.5 mg/well</td><td>Not applicable</td>
+							</tr>
+							<tr>
+								<td>28903132</td><td>Protein A HP SpinTrap</td><td>Spin column</td><td>Speed</td><td>Microcentrifuge</td><td>&gt;1 mg human lgG/column</td><td>600 µl  capacity,  100 µl prepacked medium</td>
+							</tr>
+							<tr>
+								<td>28985254</td><td>rProtein A GraviTrap</td><td>Gravity flow column</td><td>No need for equipment</td><td>No equipment</td><td>50 mg human IgG/column</td><td>1 ml</td>
+							</tr>
+							<tr>
+								<td>17040201</td><td>HiTrap Protein A HP</td><td>Column</td><td>A medium for routine purification</td><td>Syringe or standalone pump</td><td>20 mg IgG/ml</td><td>1 ml</td>
+							</tr>
+							<tr>
+								<td>17507901</td><td>HiTrap rProtein A FF</td><td>Column</td><td>High binding capacity or scalability</td><td>Syringe or standalone pump</td><td>~ 50 mg human lgG/ml</td><td>1 ml</td>
+							</tr>
+							<tr>
+								<td>29049104</td><td>HiTrap MabSelect SuRe</td><td>Column</td><td>To purify different antibodies without cross-contamination</td><td>Syringe or standalone pump</td><td>~ 35 mg human IgG/ml</td><td>1 ml</td>
+							</tr>
+							<tr>
+								<td>17040301</td><td>HiTrap Protein A HP</td><td>Column</td><td>A medium for routine purification</td><td>Syringe or standalone pump</td><td>20 mg IgG/ml</td><td>5 ml</td>
+							</tr>
+							<tr>
+								<td>17508001</td><td>HiTrap rProtein A FF</td><td>Column</td><td>High binding capacity or scalability</td><td>Syringe or standalone pump</td><td>~ 50 mg human lgG/ml</td><td>5 ml</td>
+							</tr>
+							<tr>
+								<td>11003494</td><td>HiTrap MabSelect SuRe</td><td>Column</td><td>Ability to purify different antibodies without cross-contamination</td><td>Syringe or standalone pump</td><td>~ 35 mg human IgG/ml</td><td>5 ml</td>
+							</tr>
+						</tbody>
+					</table>
+  	</div>
   
-  <div class="w3-container w3-cell" style="border-spacing:30px">
+  <div class="w3-cell" style="border-spacing:30px">
       
   </div>
 </div>
 <div class="w3-cell-row" style="border-spacing:1px">
-	<div class="w3-container w3-cell">
-		<div class="w3-panel w3-sand w3-leftbar">
-			<p><i class="fa fa-quote-right w3-xxlarge w3-opacity"></i><br>
-				<i class="w3-serif w3-xlarge">Putting innovation first is our motto. We strive hard to provide 100% customer
-					satisfaction in our domain. Using IBM Watson's cognitive service has boosted our sale tremendously.</i></p>
-  		</div>
-	</div>
-	<div class="w3-container w3-cell" style="width:380px">
+	
+	<div class="w3-cell" style="width:380px">
       
 	</div>
 </div>
@@ -109,7 +159,7 @@ TCS GE Demo
   <script src="js/global.js"></script>
   <script>
   var myIndex = 0;
-  carousel();
+  //carousel();
 
   function carousel() {
       var i;
