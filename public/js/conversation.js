@@ -20,7 +20,8 @@ var ConversationPanel = (function() {
   // Publicly accessible methods defined
   return {
     init: init,
-    inputKeyDown: inputKeyDown
+    inputKeyDown: inputKeyDown,
+    submit: submit
   };
 
   // Initialize the module
@@ -41,7 +42,8 @@ var ConversationPanel = (function() {
     var currentResponsePayloadSetter = Api.setResponsePayload;
     Api.setResponsePayload = function(newPayloadStr) {
       currentResponsePayloadSetter.call(Api, newPayloadStr);
-      displayMessage(JSON.parse(newPayloadStr), settings.authorTypes.watson);
+displayMessage(newPayloadStr, settings.authorTypes.watson);
+    //  displayMessage(JSON.parse(newPayloadStr), settings.authorTypes.watson);
     };
   }
 
@@ -153,6 +155,21 @@ var ConversationPanel = (function() {
     return null;
   }
 
+
+  function submit() {
+    var x;
+
+    var r1 =  document.getElementById("a").value ;
+    var r2 =  document.getElementById("b").value ;
+  //   var r3 =  document.getElementById("c").value ;
+console.log("UserName is ",r1);
+ localStorage.setItem("username", r1);
+
+  window.location.assign("chat.html")
+  //window.location.assign("a1.html")
+ // window.location = "profile.html"; 
+
+  }
   // Constructs new DOM element from a message payload
   function buildMessageDomElements(newPayload, isUser) {
     var textArray = isUser ? newPayload.input.text : newPayload.output.text;
@@ -169,6 +186,9 @@ var ConversationPanel = (function() {
     		  document.getElementById("table2").style.display = "block";
     	  }else if(tableContext != null && tableContext.F1 == "Prepacked"){
     		  document.getElementById("table1").style.display = "block";
+    		  document.getElementById("table2").style.display = "none";
+    	  }else{
+    		  document.getElementById("table1").style.display = "none";
     		  document.getElementById("table2").style.display = "none";
     	  }
         var messageJson = {

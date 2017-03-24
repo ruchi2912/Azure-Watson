@@ -119,7 +119,7 @@ div {
 
 .from-user .message-inner {
   position: relative;
-  font-size: 1.3rem;
+  font-size: 1.1 rem;
   color: #fff;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;
@@ -165,7 +165,7 @@ div {
 .from-watson .message-inner {
   position: relative;
   border-radius: 1.5625rem;
-  font-size: 1.3rem;
+  font-size: 1.1 rem;
   color: #B5B5B5;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;
@@ -197,7 +197,7 @@ div {
   border: none;
   outline: none;
   background: transparent;
-  font-size: 1.3rem;
+  font-size: 1.1 rem;
   color: #323232;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;

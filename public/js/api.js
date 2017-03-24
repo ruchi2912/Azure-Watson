@@ -15,13 +15,15 @@ var Api = (function() {
       return requestPayload;
     },
     setRequestPayload: function(newPayloadStr) {
-      requestPayload = JSON.parse(newPayloadStr);
+     // requestPayload = JSON.parse(newPayloadStr);
+      requestPayload = newPayloadStr;
     },
     getResponsePayload: function() {
       return responsePayload;
     },
     setResponsePayload: function(newPayloadStr) {
-      responsePayload = JSON.parse(newPayloadStr);
+      //responsePayload = JSON.parse(newPayloadStr);
+      responsePayload = newPayloadStr;
     }
   };
 
@@ -44,7 +46,16 @@ var Api = (function() {
     http.setRequestHeader('Content-type', 'application/json');
     http.onreadystatechange = function() {
       if (http.readyState === 4 && http.status === 200 && http.responseText) {
-        Api.setResponsePayload(http.responseText);
+   
+      var response = JSON.parse(http.responseText);
+        context = response.context;
+      response.context.Username =localStorage.getItem('username') ;
+  
+     
+
+
+
+  Api.setResponsePayload(response);
       }
     };
 
