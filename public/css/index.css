@@ -1,5 +1,29 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
+.header {
+    border:0px;
+}
+
+.header .image {
+    background: url("../img/ge-logo.png") 
+                no-repeat;
+    width: 510px;
+    height: 86px;
+    border:0px;
+    
+}
+
+.header .text {
+    font: x-large sans-serif;
+    border:0px;
+}
+
+.header .image, 
+.header .text {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
 .login-page {
   width: 360px;
   padding: 8% 0 0;
@@ -8,7 +32,7 @@
 .form {
   position: relative;
   z-index: 1;
-  background: #FFFFFF;
+  background: rgb(57, 147, 192);
   max-width: 360px;
   margin: 0 auto 100px;
   padding: 45px;
@@ -18,7 +42,7 @@
 .form input {
   font-family: "Roboto", sans-serif;
   outline: 0;
-  background: #f2f2f2;
+  background: #ffffff;
   width: 100%;
   border: 0;
   margin: 0 0 15px;
@@ -30,18 +54,19 @@
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   outline: 0;
-  background: #4CAF50;
+  background: rgb(78, 90, 99);
   width: 100%;
   border: 0;
   padding: 15px;
   color: #FFFFFF;
-  font-size: 14px;
+  font-size: 17px;
+  font-weight: bolder;
   -webkit-transition: all 0.3 ease;
   transition: all 0.3 ease;
   cursor: pointer;
 }
 .form button:hover,.form button:active,.form button:focus {
-  background: #43A047;
+  background: rgb(67, 82, 56);
 }
 .form .message {
   margin: 15px 0 0;
@@ -53,7 +78,7 @@
   text-decoration: none;
 }
 .form .register-form {
-  display: none;
+  display: block;
 }
 .container {
   position: relative;
@@ -89,12 +114,13 @@
   color: #EF3B3A;
 }
 body {
-  background: #76b852; /* fallback for old browsers */
-  background: -webkit-linear-gradient(right, #76b852, #8DC26F);
-  background: -moz-linear-gradient(right, #76b852, #8DC26F);
-  background: -o-linear-gradient(right, #76b852, #8DC26F);
-  background: linear-gradient(to left, #76b852, #8DC26F);
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
+}
+
+.w3-tangerine {
+  font-family: 'Tangerine', serif;
+  font-size: -webkit-xxx-large;
+  font-weight: bold;
 }

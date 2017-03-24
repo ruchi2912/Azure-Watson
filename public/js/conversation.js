@@ -30,6 +30,7 @@ var ConversationPanel = (function() {
     Api.sendRequest( '', null );
     setupInputBox();
   }
+
   // Set up callbacks on payload setters in Api module
   // This causes the displayMessage function to be called when messages are sent / received
   function chatUpdateSetup() {
@@ -58,6 +59,7 @@ displayMessage(newPayloadStr, settings.authorTypes.watson);
     var maxFontSize = 18;
     var minPadding = 4;
     var maxPadding = 6;
+    input.focus();
 
     // If no dummy input box exists, create one
     if (dummy === null) {

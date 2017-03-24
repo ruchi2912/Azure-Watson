@@ -46,15 +46,9 @@ var Api = (function() {
     http.setRequestHeader('Content-type', 'application/json');
     http.onreadystatechange = function() {
       if (http.readyState === 4 && http.status === 200 && http.responseText) {
-   
       var response = JSON.parse(http.responseText);
         context = response.context;
-      response.context.Username =localStorage.getItem('username') ;
-  
-     
-
-
-
+      response.context.Username =localStorage.getItem('username');
   Api.setResponsePayload(response);
       }
     };

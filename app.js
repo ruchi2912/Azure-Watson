@@ -33,21 +33,6 @@ app.listen(appEnv.port, '0.0.0.0', function() {
 	console.log("server starting on " + appEnv.url);
 });
 
-app.get('/login',function(req,res){
-	console.log('In root get');
-	res.render('login.ejs');
-});
-
-app.get('/chat',function(req,res){
-	console.log('In chat post');
-	res.sendFile(path.join(__dirname+'/chat.html'));
-});
-
-app.get('/admin',function(req,res){
-	console.log('In chat post');
-	res.sendFile(path.join(__dirname+'/admin.html'));
-});
-
 //Endpoint to be call from the client side
 app.post('/api/message', function(req, res) {
 	var workspace = '39608afa-d3fc-4632-92bd-75fd8cd5635f';
@@ -84,6 +69,7 @@ app.post('/api/message', function(req, res) {
  * @return {Object}          The response with the updated message
  */
 function updateMessage( response1 ,cb){
+	console.log("Here 1");
 	var pname = response1.context.ProductCode ; // Product name
 	var u = response1.context.Username ;//name of user who is chating
 	var pstatus= 'Purchased' ; //response1.context.status ; //status like Purchased or Enquired
@@ -92,7 +78,6 @@ function updateMessage( response1 ,cb){
 	var v1 =response1.context.v1 ;
 	var v10 =response1.context.v10 ;
 
-	console.log(v1);
 
 	if (v1 == "order"){
 		request({
@@ -104,7 +89,6 @@ function updateMessage( response1 ,cb){
 			{
 				var abc = JSON.parse(body);			    
 				var x = abc.txt ; 
-				console.log(x) ;
 				response1.output.text = x;
 
 
@@ -120,7 +104,6 @@ function updateMessage( response1 ,cb){
 			{
 				var abc = JSON.parse(body);			    
 				var x = abc.txt ; 
-				console.log(x) ;
 				//	response1.output.text = x;
 				cb (response1) ;
 
@@ -151,7 +134,6 @@ function updateMessage( response1 ,cb){
 			{
 				var abc = JSON.parse(body);			    
 				var x = abc.txt ; 
-				console.log(x) ;
 				response1.output.text = x;
 				cb (response1) ;
 
@@ -172,6 +154,7 @@ function updateMessage( response1 ,cb){
 	else
 	{
 		cb (response1) ;
+		console.log("Here it comes")
 
 	}
 }
