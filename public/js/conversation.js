@@ -178,7 +178,7 @@ var ConversationPanel = (function() {
               'children': [{
                 // <p>{messageText}</p>
                 'tagName': 'p',
-                'text': currentText
+                'text': currentText + "Hello"
               }]
             }]
           }]

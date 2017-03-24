@@ -9,7 +9,7 @@ var path    = require("path");
 var fs     = require('fs');
 
 var app = express();
-app.set('title','Automated Vehicle Diagnosis');
+app.set('title','TCS GE Demo');
 app.set('view engine','ejs');
 //app.engine('html', require('ejs').renderFile);
 app.use(express.static(__dirname + '/public'));
@@ -22,8 +22,8 @@ app.use(bodyParser.json());
 var conversation = new Conversation({
   // If unspecified here, the CONVERSATION_USERNAME and CONVERSATION_PASSWORD env properties will be checked
   // After that, the SDK will fall back to the bluemix-provided VCAP_SERVICES environment property
-  username: '8753a861-3be6-4412-88da-a544cb4fe4b4',
-  password: 'IKFiifykhyrp',
+  username: '7eacaf15-bcc0-4cf4-a72e-99c2aaeaf653',
+  password: '1D3dKkLNJApk ',
   url: 'https://gateway.watsonplatform.net/conversation/api',
   version_date: '2016-10-21',
   version: 'v1'
@@ -50,7 +50,7 @@ app.get('/admin',function(req,res){
 
 // Endpoint to be call from the client side
 app.post('/api/message', function(req, res) {
-  var workspace = '4553eec1-61d3-4b7e-8b79-ab2acf5bc286';
+  var workspace = '39608afa-d3fc-4632-92bd-75fd8cd5635f';
   if (!workspace) {
     return res.json({
       'output': {
