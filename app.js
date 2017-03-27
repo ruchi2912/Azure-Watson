@@ -95,6 +95,8 @@ function updateMessage( response1 ,cb){
 			}		
 		}); 
 
+		/*
+
 		request({
 			url:  'https://noderednn123.mybluemix.net/order',
 			method: 'GET'
@@ -115,6 +117,7 @@ function updateMessage( response1 ,cb){
 				cb (response1) ;
 			}
 		}); 
+		*/
 
 
 

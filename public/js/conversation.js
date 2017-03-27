@@ -186,12 +186,20 @@ console.log("UserName is ",r1);
     	  if(tableContext != null && tableContext.F1 == "resin"){
     		  document.getElementById("table1").style.display = "none";
     		  document.getElementById("table2").style.display = "block";
+    		  document.getElementById("table3").style.display = "none";
     	  }else if(tableContext != null && tableContext.F1 == "Prepacked"){
     		  document.getElementById("table1").style.display = "block";
     		  document.getElementById("table2").style.display = "none";
-    	  }else{
+    		  document.getElementById("table3").style.display = "none";
+    	  }else if(tableContext != null && tableContext.F1 == "faq"){
     		  document.getElementById("table1").style.display = "none";
     		  document.getElementById("table2").style.display = "none";
+    		  document.getElementById("table3").style.display = "block";
+    	  }
+    	  else{
+    		  document.getElementById("table1").style.display = "none";
+    		  document.getElementById("table2").style.display = "none";
+    		  document.getElementById("table3").style.display = "none";
     	  }
         var messageJson = {
           // <div class='segments'>
