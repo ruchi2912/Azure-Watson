@@ -87,24 +87,29 @@ function updateMessage( response1 ,cb){
 			{
 				var abc = JSON.parse(body);			    
 				var x = abc.txt ; 
-				response1.output.text = x;
+				//response1.output.text = x;
+         console.log('data is inserted');
 
 
 			}		
 		}); 
 
+		
 
-		/*request({
+		console.log(v1) ;
+
+		request({
 			url:  'https://noderednn123.mybluemix.net/order',
 			method: 'GET'
 		}, 
 		function(error, response, body) {
 			if (!error && response.statusCode == 200)
 			{
-				var abc = JSON.parse(body);			    
-				var x = abc.txt ; 
-				//	response1.output.text = x;
-				cb (response1) ;
+				//var abc = JSON.parse(body);			    
+				//var x = abc.txt ; 
+				console.log(v1 + 'checking') ;
+				//	response1.output.text = 'cheking';
+			//	cb (response1) ;
 
 			}
 
@@ -113,10 +118,78 @@ function updateMessage( response1 ,cb){
 				response1.output.text = "Error accessing bluemix service";
 				cb (response1) ;
 			}
-		}); */
-		response1.context.v1 ='';
+
+			
+		}); 
+response1.context.v1 ='';
 	}
-	
+
+
+
+
+if (v1 == "order1"){
+
+		
+		request({
+			url:  'https://noderednn123.mybluemix.net/dbselect1?user=' + u ,
+			method: 'GET'
+		}, 
+		function(error, response, body) {
+			if (!error && response.statusCode == 200)
+			{
+				var abc = JSON.parse(body);			    
+				var x = abc.txt ; 
+				 console.log('value of previous product is ' + x);
+				//response1.output.text = x;
+	request({
+			url:  'https://noderednn123.mybluemix.net/dbinsert?user=' + u + '&abc=' + pstatus + '&order=' + pnum + '&prod=' + x,
+			method: 'GET'
+		}, 
+		function(error, response, body) {
+			if (!error && response.statusCode == 200)
+			{
+				  console.log('data is inserted for second flow');
+				var abc = JSON.parse(body);			    
+				var x = abc.txt ; 
+				//response1.output.text = x;
+         console.log('data is inserted');
+
+			}		
+		}); 
+	}		
+		}); 
+
+		
+
+		console.log(v1) ;
+
+		request({
+			url:  'https://noderednn123.mybluemix.net/order',
+			method: 'GET'
+		}, 
+		function(error, response, body) {
+			if (!error && response.statusCode == 200)
+			{
+				//var abc = JSON.parse(body);			    
+				//var x = abc.txt ; 
+				console.log(v1 + 'checking') ;
+				//	response1.output.text = 'cheking';
+			//	cb (response1) ;
+
+			}
+
+			else
+			{
+				response1.output.text = "Error accessing bluemix service";
+				cb (response1) ;
+			}
+
+			
+		}); 
+response1.context.v1 ='';
+	}
+
+
 	if (v10 =="ch")
 	{
 		request({
