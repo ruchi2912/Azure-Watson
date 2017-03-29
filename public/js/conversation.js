@@ -187,20 +187,30 @@ console.log("UserName is ",r1);
     		  document.getElementById("table1").style.display = "none";
     		  document.getElementById("table2").style.display = "block";
     		  document.getElementById("table3").style.display = "none";
+    		  document.getElementById("table4").style.display = "none";
     	  }else if(tableContext != null && tableContext.F1 == "Prepacked"){
     		  document.getElementById("table1").style.display = "block";
     		  document.getElementById("table2").style.display = "none";
     		  document.getElementById("table3").style.display = "none";
+    		  document.getElementById("table4").style.display = "none";
     	  }else if(tableContext != null && tableContext.F1 == "faq"){
     		  document.getElementById("table1").style.display = "none";
     		  document.getElementById("table2").style.display = "none";
     		  document.getElementById("table3").style.display = "block";
+    		  document.getElementById("table4").style.display = "none";
+    	  }else if(tableContext != null && tableContext.v10 == "showorder"){
+    		  document.getElementById("table1").style.display = "none";
+    		  document.getElementById("table2").style.display = "none";
+    		  document.getElementById("table3").style.display = "none";
+    		  Api.buildOrderTable(newPayload);
     	  }
     	  else{
     		  document.getElementById("table1").style.display = "none";
     		  document.getElementById("table2").style.display = "none";
     		  document.getElementById("table3").style.display = "none";
+    		  document.getElementById("table4").style.display = "none";
     	  }
+    	 
         var messageJson = {
           // <div class='segments'>
           'tagName': 'div',

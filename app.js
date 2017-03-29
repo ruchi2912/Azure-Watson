@@ -10,6 +10,7 @@ var fs     = require('fs');
 var request     = require('request');
 var app = express();
 app.set('title','TCS GE Demo');
+var ibmdb = require('ibm_db');
 app.set('view engine','ejs');
 //app.engine('html', require('ejs').renderFile);
 app.use(express.static(__dirname + '/public'));
@@ -69,7 +70,6 @@ app.post('/api/message', function(req, res) {
  * @return {Object}          The response with the updated message
  */
 function updateMessage( response1 ,cb){
-	console.log("Here 1");
 	var pname = response1.context.ProductCode ; // Product name
 	var u = response1.context.Username ;//name of user who is chating
 	var pstatus= 'Purchased' ; //response1.context.status ; //status like Purchased or Enquired
@@ -77,8 +77,6 @@ function updateMessage( response1 ,cb){
 	var pnum=    '1234' ;//response1.context.order; //Product number
 	var v1 =response1.context.v1 ;
 	var v10 =response1.context.v10 ;
-
-
 	if (v1 == "order"){
 		request({
 			url:  'https://noderednn123.mybluemix.net/dbinsert?user=' + u + '&abc=' + pstatus + '&order=' + pnum + '&prod=' + pname,
@@ -95,9 +93,8 @@ function updateMessage( response1 ,cb){
 			}		
 		}); 
 
-		/*
 
-		request({
+		/*request({
 			url:  'https://noderednn123.mybluemix.net/order',
 			method: 'GET'
 		}, 
@@ -116,16 +113,10 @@ function updateMessage( response1 ,cb){
 				response1.output.text = "Error accessing bluemix service";
 				cb (response1) ;
 			}
-		}); 
-		*/
-
-
-
-
+		}); */
 		response1.context.v1 ='';
 	}
-
-
+	
 	if (v10 =="ch")
 	{
 		request({
@@ -151,15 +142,80 @@ function updateMessage( response1 ,cb){
 		}); 
 
 		response1.context.v10 ='';
+	}else if(response1.output != null && response1.output.context != null && response1.output.context.v10 == "showorder"){
+		if(response1.output.context.v10 == "showorder"){
+			ibmdb.open(connString, function(err, conn) {
+				if (err ) {
+					response1.send("error occurred " + err.message);
+				}
+				else {
+					conn.query("SELECT t1.PRODUCT,t2.PRODUCT_DESC FROM DASH5539.GETABLE1 t1 left join DASH5539.GELOOKUP t2 on(TRIM(t1.PRODUCT) = TRIM(t2.PRODUCT_ID)) WHERE USER1 = '" + u + "'", function(err, tables, moreResultSets) {
+					if ( !err ) { 
+						if(tables.length > 0){
+							response1.orderTable = tables;
+						}else{
+							response1.output.context = "";
+							response1.output.text = "Hey! Seems like you have not made any purchase yet. Go ahed and make a purchase.";
+						}
+						cb (response1) ;
+					} else {
+						console.log("error occurred " + err.message);
+					}
+	
+					/*
+						Close the connection to the database
+						param 1: The callback function to execute on completion of close function.
+					*/
+					conn.close(function(){
+						console.log("Connection Closed");
+						});
+					});
+				}
+			} );
+		}
 	}
-
-
 	else
 	{
 		cb (response1) ;
-		console.log("Here it comes")
+		console.log("comes here");
 
 	}
 }
 
-module.exports = app;
+//DashDB Connection
+var db2 = {
+        db: "BLUDB",
+        hostname: "dashdb-entry-yp-dal09-07.services.dal.bluemix.net",
+        port: 50000,
+        username: "dash5539",
+        password: "6eb2d6810e84"
+     };
+
+var connString = "DRIVER={DB2};DATABASE=" + db2.db + ";UID=" + db2.username + ";PWD=" + db2.password + ";HOSTNAME=" + db2.hostname + ";port=" + db2.port;
+
+/*app.get('/fetchOrders', function(req, res) {
+	       ibmdb.open(connString, function(err, conn) {
+				if (err ) {
+				 res.send("error occurred " + err.message);
+				}
+				else {
+					conn.query("SELECT * from DASH5539.GETABLE1 FETCH", function(err, tables, moreResultSets) {
+								
+						console.log(tables);		
+					if ( !err ) { 
+						//res.render(tables);
+					} else {
+					   res.send("error occurred " + err.message);
+					}
+
+					/*
+						Close the connection to the database
+						param 1: The callback function to execute on completion of close function.
+					*/
+					/*conn.close(function(){
+						console.log("Connection Closed");
+						});
+					});
+				}
+			} );
+});*/
