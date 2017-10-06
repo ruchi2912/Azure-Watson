@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE ClinicalTrial SYSTEM "TrialTrove4_v2.2.dtd"[]>
+<ClinicalTrial id="148989">
+  <ClinicalTrialTitle>A Multicenter Study with a Randomized, Double&#45;Blind, Placebo&#45;Controlled Induction Dosing Period Followed by a Randomized Maintenance Dosing Period and a Long&#45; Term Extension Period to Evaluate the Efficacy and Safety of LY2439821 in Patients with Moderate&#45;to&#45;Severe Plaque Psoriasis </ClinicalTrialTitle>
+  <DiseaseTypes>
+<DiseaseType therapeuticArea='Autoimmune/Inflammation'>Psoriasis</DiseaseType>
+</DiseaseTypes>
+  <PatientSegments>
+    <PatientSegment>Moderate</PatientSegment>
+    <PatientSegment>Plaque psoriasis</PatientSegment>
+    <PatientSegment>Severe</PatientSegment>
+  </PatientSegments>
+  <ClinicalTrialPhases>
+    <ClinicalTrialPhase>III</ClinicalTrialPhase>
+  </ClinicalTrialPhases>
+  <Sponsors>
+    <Sponsor SponsorType="Industry, Top 20 Pharma">Eli Lilly</Sponsor>
+  </Sponsors>
+  <DrugsTested>
+    <DrugTested drugID="54085" drugSynonyms="interleukin 17 antibody, Lilly;LY2439821;anti&#45;IL&#45;17 MAb, Lilly;ixekizumab;LY&#45;2439821;Taltz;IL&#45;17 antibody, Lilly;LY&#45;2439821 (SC);ixekizumab (SC);LY2439821 (SC);" isPrimaryInvestigationalDrug="true" primaryDrugName="LY2439821 (SC)" />
+  </DrugsTested>
+  <ProtocolIDs>
+    <ProtocolID>UKCRN:11689</ProtocolID>
+    <ProtocolID>EudraCT Number: 2011&#45;002970&#45;22</ProtocolID>
+    <ProtocolID>JKR&#45;0772</ProtocolID>
+    <ProtocolID>12972</ProtocolID>
+    <ProtocolID>I1F&#45;MC&#45;RHAZ</ProtocolID>
+    <ProtocolID>NCT01474512</ProtocolID>
+    <ProtocolID>UNCOVER&#45;1</ProtocolID>
+    <ProtocolID>TrialTroveID&#45;148989</ProtocolID>
+    <ProtocolID>OCT11&#45;0110</ProtocolID>
+    <ProtocolID>JapicCTI&#45;121952</ProtocolID>
+  </ProtocolIDs>
+  <Status>Completed</Status>
+  <ClinicalTrialObjectives>To evaluate anti &#45;IL&#45;17 monoclonal antibody for the treatment of psoriasis. 
+
+To assess the safety and efficacy of LY2439821 compared to placebo in participants with moderate to severe, chronic plaque psoriasis. 
+
+To evaluate longer&#45;term efficacy and safety for up to a total of 5 years in the Long&#45;Term Extension Period for patients who participate through the entire study. 
+
+To evaluate sPGA 0/1 and PASI 75 response rates at Week 12 in ixekizumabtreated vs. placebo&#45;treated patients. 
+
+To determine the optimal ixekizumab dose regimen for maintenance of sPGA 0/1 response out to Week 60 among patients with sPGA 0/1 at Week 12 
+
+To assess the impact on HRQoL of continued IXE treatment versus switching IXE&#45;responder patients to placebo in a randomized Phase 3 trial
+
+To evaluate the improvements in work productivity in high responders over 60 weeks of treatment with IXE</ClinicalTrialObjectives>
+  <PrimaryEndPoints>The co&#45;primary objectives of the study are to assess whether LY2439821 80 mg is superior to placebo at Week 12 in the treatment of patients with moderate&#45;to&#45;severe plaque psoriasis. 
+*Week 12 sPGA 0/1 and PASI 75 response rates. 
+
+Primary endpoints include sPGA 0 or 1 and PASI 75
+
+Primary Outcome Measures:
+Percentage of Participants With Static Physician Global Assessment (sPGA) of 0 or 1 (Efficacy of Ixekizumab in Participants With Moderate to Severe Plaque Ps Measure: sPGA) [ Time Frame: Week 12 ] [ Designated as safety issue: No ]
+The sPGA is the physician's determination of the participant's Ps lesions overall at a given time point. Lesions were categorized by descriptions for induration, erythema, and scaling. Participants Ps were assessed as 0 (clear), 1 (minimal), 2 (mild), 3 (moderate), 4 (severe), or 5 (very severe). An sPGA responder was defined as having a post&#45;baseline sPGA score of "0" or "1" with at least a 2&#45;point improvement from baseline.
+
+Percentage of Participants Achieving &gt; or = 75% Improvement in Ps Area and Severity Index (PASI75) (Efficacy of Ixekizumab in Participants With Moderate to Severe Plaque Psoriasis Measure: PASI) [ Time Frame: Week 12 ] [ Designated as safety issue: No ]
+The PASI combines the extent of body surface involvement in 4 anatomical regions (head, trunk, arms, and legs). For each region the percent area of skin involved was estimated from 0 (0%) to 6 (90%&#45;100%) and severity was estimated by clinical signs of erythema, induration and scaling with a scores range from 0 (no involvement) to 4 (severe involvement). Each area is scored separately and the scores then combined for the final PASI. Final PASI calculated as: sum of severity parameters for each region * area score * weighing factor [head (0.1), upper limbs (0.2), trunk (0.3), lower limbs (0.4)]. Overall scores range from 0 (no Ps) to 72 (the most severe disease). Participants achieving PASI75 were defined as having an improvement of &gt; or = 75% in the PASI score compared to baseline.
+
+Dermatology Life Quality Index (DLQI)
+Total scores range from 0 to 30 (less to greater impairment)
+Total score of 0 or 1 indicates psoriasis has no effect on a patient's HRQoL
+Minimal clinically important difference (MCID) is 5 
+Health&#45;related quality of life (HRQoL)
+
+Absenteeism&#45;Work time missed due to psoriasis
+Presenteeism&#45;Impairment at work/reduced on&#45;the&#45;job effectiveness due to psoriasis
+Work Productivity Loss&#45; Overall work impairment associated with absenteeism and presenteeism due to psoriasisOverall Daily
+Activity&#45; Activity impairment (other than work) due to psoriasis</PrimaryEndPoints>
+  <OtherEndPoints>Secondary Outcome Measures:
+Percentage of Participants Achieving an sPGA of 0 (Efficacy of Ixekizumab in Participants With Moderate to Severe Plaque Ps Measure: sPGA) [ Time Frame: Week 12 ] [ Designated as safety issue: No ]
+The sPGA is the physician's determination of the participant's Ps lesions overall at a given time point. Lesions were categorized by descriptions for induration, erythema, and scaling. Participants Ps were assessed as 0 (clear), 1 (minimal), 2 (mild), 3 (moderate), 4 (severe), or 5 (very severe).
+
+Percentage of Participants Achieving PASI 90% (PASI90) or 100% (PASI100) (Efficacy of Ixekizumab in Participants With Moderate to Severe Plaque Ps Measure: PASI) [ Time Frame: Week 12 ] [ Designated as safety issue: No ]
+The PASI combines the extent of body surface involvement in 4 anatomical regions (head, trunk, arms, and legs). For each region the percent area of skin involved was estimated from 0 (0%) to 6 (90%&#45;100%) and severity was estimated by clinical signs of erythema, induration and scaling with a scores range from 0 (no involvement) to 4 (severe involvement). Each area is scored by itself and the scores were then combined for the final PASI. Final PASI calculated as: sum of severity parameters for each region * area score * weighing factor [head (0.1), upper limbs (0.2), trunk (0.3), lower limbs (0.4)]. Overall scores range from 0 (no Ps) to 72 (the most severe disease). Participants achieving PASI90 or PASI100 were defined as having an improvement of =90% or of 100% respectively in PASI scores compared to baseline.
+
+Percentage of Participants Maintaining sPGA 0 or 1 After Re&#45;Randomization at Start of Maintenance Dosing Period [ Time Frame: Week 60 ] [ Designated as safety issue: No ]
+The sPGA is the physician's determination of the participant's Ps lesions overall at a given time point. Lesions were categorized by descriptions for induration, erythema, and scaling. Participants Ps were assessed as 0 (clear), 1 (minimal), 2 (mild), 3 (moderate), 4 (severe), or 5 (very severe).
+
+Percentage of Participants With Itch Numeric Rating Scale (Itch NRS) Score =4 Point Reduction From Baseline [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+The Itch NRS is a participant&#45;administered, 11&#45;point horizontal scale anchored at 0 (no itch) and 10 (worst itch imaginable). Overall severity of a participant's itching from Ps is indicated by circling the number that best describes the worst level of itching in the past 24 hours.
+
+Change From Baseline in Dermatology&#45;Specific Quality of Life Index (DLQI) Score [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+DLQI is a participant&#45;administered, 10&#45;question, validated, quality&#45;of&#45;life questionnaire that covers 6 domains, including symptoms and feelings, daily activities, leisure, work and school, personal relationships, and treatment. Response categories include 0 (not at all), 1 (a little), 2 (a lot), and 3 (very much) and unanswered ("not relevant") responses were scored as "0." Total scores range from 0 to 30, with higher score indicating greater quality of life is impairment. A 5&#45;point change from baseline is considered clinically relevant. Least squares (LS) mean change from baseline was calculated using mixed model repeated measures (MMRM).
+
+Change From Baseline in Nail Psoriasis Severity Index (NAPSI) [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+The NAPSI is a numeric, reproducible, objective tool for evaluation of fingernail Ps. This scale is used to evaluate the severity of fingernail bed Ps and fingernail matrix Ps by area of involvement in the fingernail unit. The fingernail is divided with imaginary horizontal and longitudinal lines into quadrants. Each fingernail is given a score for fingernail bed Ps 0 (none) to 4 (Ps in 4 quadrants of the fingernail) and fingernail matrix Ps 0 (none) to 4 (Ps in 4 quadrants of the matrix), depending on the presence (score of 1) or absence (score of 0) of any of the features of fingernail bed or matrix Ps in each quadrant. The NAPSI score of a fingernail is the sum of scores in fingernail bed and fingernail matrix from each quadrant (maximum of 8). Each fingernail is evaluated, then the sum of all fingernails equals the total NAPSI score with a range from 0 to 80 with higher scores indicating more severe psoriasis. LS mean change from baseline was calculated using MMRM.
+
+Percent of Body Surface Area (BSA) Involvement of Ps [ Time Frame: Week 12 ] [ Designated as safety issue: No ]
+BSA is a physician rating of the percentage of involvement of Ps for each participant. BSA is assessed on a continuous scale from 0% (no involvement) to 100% (full involvement), where 1% corresponds to the size of the participants hand (includes the palm, fingers and thumb). Total BSA is the sum of handprints from the affected areas. LS mean change from baseline was calculated using MMRM.
+
+Change From Baseline in Psoriasis Scalp Severity Index (PSSI) [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+The PSSI is a physician assessment of erythema, induration and desquamation and percent of scalp that is covered with a scores range from 0 (none) to 4 (very severe). The composite score is derived from the sum of scores for erythema, induration, and desquamation multiplied by the score recorded for the extent of the scalp area involved, 1 (&lt;10%) to 6 (90%&#45;100%) with a total scores range from 0 to 72, with lower scores indicating less severity. LS mean change from baseline was calculated using MMRM.
+
+Change From Baseline in All Scores of the Work Productivity Activity Impairment Questionnaire&#45;Psoriasis (WPAI&#45;PSO) (Quality of Life and Outcome Assessments. Measures: Participant Reported Outcomes [PRO]) [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+WPAI&#45;PSO is a participant administered, 6&#45;item instrument used to assess the impact of Ps on the productivity impairment within the past 7 days. WPAI&#45;PSO has 4 domains: absenteeism, presenteeism (reduced productivity while at work), an overall work impairment score, and impairment in daily activities performed outside of work. Four scores are derived as percentages: absenteeism, presenteeism (reduced productivity while at work), overall work impairment (absenteeism and presenteeism), and impairment in activities performed outside of work. Percentage is calculated as: each score * 100 with greater scores indicating greater impairment. LS mean change from baseline was calculated using analysis of covariance (ANCOVA).
+
+Change From Baseline in Quick Inventory of Depressive Symptomatology&#45;Self Reported 16 Items (QIDS&#45;SR16) [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+QIDS&#45;SR16 is a participant&#45;administered, 16&#45;item instrument intended to assess the existence and severity of symptoms of depression. A participant is asked to consider each statement as it relates to the way they have felt for the past 7 days and rate each on a 4&#45;point scale: 0 (best) to 3 (worst). The sum of the 16 items corresponding to 9 depression domains [sad mood, concentration, self&#45;criticism, suicidal ideation, interest, energy/fatigue, sleep disturbance (initial, middle and late insomnia or hypersomnia), decrease/increase in appetite/weight, and psychomotor agitation/retardation] to give a single total scores range from 0 to 27, with higher scores indicating greater symptom severity. LS mean change from baseline was calculated using ANCOVA.
+
+Change From Baseline in Medical Outcomes Study 36&#45;item Short Form Health Survey (SF&#45;36) and Physical Component Summary (PCS) and Mental Component Summary (MCS) [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+The SF&#45;36 is a self&#45;reported instrument that measures the participant's health status during the previous 7 days. It comprises 36&#45;items covering 8 domains: physical functioning, role physical, role emotional, bodily pain, vitality, social functioning, mental health, and general health. Items are answered on Likert scales of varying lengths. The 8 domains are regrouped in the PCS and MCS scores. Scores range from 0 to 100, with higher scores indicating better levels of function and/or better health. LS mean change from baseline was calculated using ANCOVA.
+
+Change From Baseline in Patient's Global Assessment of Disease Severity (PatGA) [ Time Frame: Baseline, Week 12 ] [ Designated as safety issue: No ]
+The PatGA is a single&#45;item self&#45;reported instrument asking the participant to rate the severity of their psoriasis "today" by circling a number on the numeric rating scale from 0 (Clear = no psoriasis) to 5 (Severe = the worst their psoriasis has ever been). LS mean change from baseline calculated using MMRM.
+
+Percentage of Participants Achieving Palmoplantar PASI (PPASI) of &gt; or = 50% (PPASI50), &gt; or = 75% (PPASI75), or 100% (PPASI100) Improvement [ Time Frame: Week 12 ] [ Designated as safety issue: No ]
+The Palmoplantar PASI is a composite score derived from the sum of scores for erythema, induration, and desquamation [scores range from 0 (none) to 4 (very severe) for each] multiplied by the score for the extent of palm and sole area involvement [scores range from 0 (0%) to 6 (90 to100%)], with a total scores range from 0 to 72. Participants achieving PPASI50, PPASI75 or PASI100 were defined as having an improvement of at least 50%, 90%, or of 100%, respectively, in the PPASI scores compared to baseline.
+
+Pharmacokinetics (PK): Trough Concentration at Steady State (Ctrough ss) [ Time Frame: Weeks 12 and 24 ] [ Designated as safety issue: No ]
+Percentage of Participants With Anti&#45;ixekizumab Antibodies [ Time Frame: Baseline through Week 12 ] [ Designated as safety issue: No ]
+Percentage of participants with treatment&#45;emergent positive anti&#45;ixekizumab antibodies was summarized by treatment group. Percentage was calculated based on the number of evaluable participants and was calculated by number of participants with treatment&#45;emergent positive anti&#45;ixekizumab antibodies / number of evaluable participants * 100%. 
+
+Secondary Aim: 
+To assess maintenance of efficacy of LY2439821 compared to placebo at Week 60 and during the Maintenance Dosing Period among patients who had an sPGA (0,1) at Week 12 and were re&#45;randomized.
+To assess the efficacy of LY2439821 80 mg Q4W following disease relapse after re&#45;randomization to placebo treatment in the Maintenance Dosing Period. 
+To assess the pharmacokinetic (PK)/pharmacodynamic (PD) relationship and immunogenicity of LY2439821 throughout the study.</OtherEndPoints>
+  <StartDate>12/06/2011</StartDate>
+  <PrimaryEndPointsReported>08/21/2014</PrimaryEndPointsReported>
+  <TrialpredictTimingData>
+    <NonSubscriptionMessage></NonSubscriptionMessage>
+    <EnrollmentPeriod>
+      <ActualTrialStartDate>12/06/2011</ActualTrialStartDate>
+      <TrialpredictMinPeakEnrollmentDuration></TrialpredictMinPeakEnrollmentDuration>
+      <TrialpredictMaxPeakEnrollmentDuration></TrialpredictMaxPeakEnrollmentDuration>
+      <ActualEnrollmentDuration>27.57</ActualEnrollmentDuration>
+      <TrialpredictMinPeakEnrollmentPeriodCloseDate></TrialpredictMinPeakEnrollmentPeriodCloseDate>
+      <TrialpredictMaxPeakEnrollmentPeriodCloseDate></TrialpredictMaxPeakEnrollmentPeriodCloseDate>
+      <ActualEnrollmentPeriodCloseDate>03/24/2014</ActualEnrollmentPeriodCloseDate>
+    </EnrollmentPeriod>
+    <TreatmentPeriod>
+      <TrialpredictMinPeakTreatmentDuration>1.00</TrialpredictMinPeakTreatmentDuration>
+      <TrialpredictMaxPeakTreatmentDuration>5.00</TrialpredictMaxPeakTreatmentDuration>
+      <ActualTreatmentDuration></ActualTreatmentDuration>
+      <TrialpredictMinPeakTreamentPeriodEndDate>04/23/2014</TrialpredictMinPeakTreamentPeriodEndDate>
+      <TrialpredictMaxPeakTreamentPeriodEndDate>08/23/2014</TrialpredictMaxPeakTreamentPeriodEndDate>
+      <ActualTreatmentPeriodEndDate>06/24/2014</ActualTreatmentPeriodEndDate>
+    </TreatmentPeriod>
+    <TotalTrialPeriod>
+      <TrialpredictMinPeakTotalTrialDuration></TrialpredictMinPeakTotalTrialDuration>
+      <TrialpredictMaxPeakTotalTrialDuration></TrialpredictMaxPeakTotalTrialDuration>
+      <ActualTotalTrialDuration>30.59</ActualTotalTrialDuration>
+      <TrialpredictMinTotalTrialCloseDate></TrialpredictMinTotalTrialCloseDate>
+      <TrialpredictMaxTotalTrialCloseDate></TrialpredictMaxTotalTrialCloseDate>
+      <ActualTotalTrialCloseDate>06/24/2014</ActualTotalTrialCloseDate>
+    </TotalTrialPeriod>
+  </TrialpredictTimingData>
+  <PatientPopulation>Patients with moderate to severe, chronic plaque psoriasis. </PatientPopulation>
+  <InclusionCriteria>Present with chronic plaque psoriasis based on a confirmed diagnosis of chronic psoriasis vulgaris for at least 6 months prior to randomization
+At least 10% Body Surface Area (BSA) of Psoriasis at screening and at randomization
+Static Physician Global Assessment (sPGA) score of at least 3 and Psoriasis Area and Severity Index (PASI) score of at least 12 at screening and at randomization
+Candidate for phototherapy and/or systemic therapy
+Men must agree to use a reliable method of birth control during the study
+Women must agree to use birth control or remain abstinent during the study and for at least 12 weeks after stopping treatment</InclusionCriteria>
+  <ExclusionCriteria>Pustular, erythrodermic, and/or guttate forms of psoriasis
+History of drug&#45;induced psoriasis
+Clinically significant flare of psoriasis during the 12 weeks prior to randomization
+Concurrent or recent use of any biologic agent
+Received systemic psoriasis therapy [such as psoralen and ultraviolet A (PUVA) light therapy] or phototherapy within the previous 4 weeks; or had topical psoriasis treatment within the previous 2 weeks prior to randomization
+Cannot avoid excessive sun exposure or use of tanning booths for at least 4 weeks prior to randomization and during the study
+Have participated in any study with interleukin (IL)&#45;17 antagonists, including LY2439821
+Serious disorder or illness other than plaque psoriasis
+Serious infection within the last 3 months
+Breastfeeding or nursing (lactating) women.
+
+&#45; Have a history of uncontrolled high blood pressure
+&#45; Have clinical laboratory test results at entry that are outside the normal reference range
+&#45; Are currently participating in or were discontinued within the last 30 days from another clinical trial involving an investigational drug
+&#45; Are a woman who is lactating or breast feeding
+&#45; Are a woman and could become pregnant during this study, you must talk to the study doctor about the birth control that you will use to avoid getting pregnant during the study
+&#45; Are a post menopausal woman, you must be at least 45 years of age and have not menstruated for the last 12 months
+&#45; Are a woman between 40&#45;45 years of age, test negative for pregnancy, and have not menstruated during the last 12 months only, you must have an additional blood test to see if you can participate
+&#45; Are a male, you must agree to reduce the risk of your female partner becoming pregnant during the study</ExclusionCriteria>
+  <Gender>Both</Gender>
+  <MinAge>18</MinAge>
+  <MinAgeUnit>Years</MinAgeUnit>
+  <MaxAge></MaxAge>
+  <MaxAgeUnit>Years</MaxAgeUnit>
+  <PriorConcurrentTherapy></PriorConcurrentTherapy>
+  <TargetAccrualText>1296</TargetAccrualText>
+  <TargetAccrualNumeric>1296</TargetAccrualNumeric>
+  <ReportedSites>105</ReportedSites>
+  <IdentifiedSites>36</IdentifiedSites>
+  <ActualAccrualText>1296</ActualAccrualText>
+  <ActualAccrualNumeric>1296</ActualAccrualNumeric>
+  <ClinicalTrialLocations>
+<ClinicalTrialLocation>United States</ClinicalTrialLocation>
+<ClinicalTrialLocation>United Kingdom</ClinicalTrialLocation>
+<ClinicalTrialLocation>Romania</ClinicalTrialLocation>
+<ClinicalTrialLocation>Poland</ClinicalTrialLocation>
+<ClinicalTrialLocation>Japan</ClinicalTrialLocation>
+<ClinicalTrialLocation>Italy</ClinicalTrialLocation>
+<ClinicalTrialLocation>Hungary</ClinicalTrialLocation>
+<ClinicalTrialLocation>Germany</ClinicalTrialLocation>
+<ClinicalTrialLocation>Denmark</ClinicalTrialLocation>
+<ClinicalTrialLocation>Canada</ClinicalTrialLocation>
+<ClinicalTrialLocation>Australia</ClinicalTrialLocation>
+<ListedSites></ListedSites>
+</ClinicalTrialLocations>
+  <TreatmentPlan>Subjects will receive following treatment: 
+&#45;  Experimental: 80 milligrams (mg) Ixekizumab Dosing Regimen 1 (Q2W): Administered as two 80&#45;mg subcutaneous (SC) injections at Week 0, then one 80&#45;mg SC injection per Dosing Regimen 1 [every 2 weeks (Q2W)] up to and including Week 10. At Week 12, arm is re&#45;randomized to placebo, Dosing Regimen 2 [every 4 weeks (Q4W)] or Dosing Regimen 3 [every 12 weeks Q12W)]. 
+&#45; Experimental: 80 mg Ixekizumab Dosing Regimen 2 (Q4W): Administered as two 80&#45;mg SC injections at Week 0, then one 80&#45;mg SC injection per Dosing Regimen 2 (Q4W) up to and including Week 10. At Week 12, arm is re&#45;randomized to placebo, Dosing Regimen 2 (Q4W) or Dosing Regimen 3 (Q12W). 
+&#45; Experimental: 80 mg Ixekizumab Dosing Regimen 3 (Q12W): Dosing Regimen 3 (Q12W) is not used until Week 12. At Week 12, participants who were re&#45;randomized to this arm were administered one 80&#45;mg SC injection Q12W. 
+&#45; Placebo Comparator: Placebo: Administered as 2 SC injections at Week 0, then 1 SC injection per Dosing Regimen 1 (Q2W) up to and including Week 10. At Week 12, arm is re&#45;randomized to placebo or Dosing Regimen 2 (Q4W). 
+
+The study is performed in 5 periods:
+Period 1: Screening Period (Visits 1 and 1A) lasting from 4 to 30 days prior to Period 2 (baseline; Week 0; Visit 2)
+Period 2: Induction Dosing Period from Week 0 (baseline; Visit 2) to Week 12 (Visit 7)
+Period 3: Maintenance Dosing Period from Week 12 (Visit 7) to Week 60 (Visit 19)
+Period 4: Long&#45;Term Extension Period from Week 60 (Visit 19) up toWeek 264 (Visit 36)
+Period 5: Post&#45;Treatment Follow&#45;Up Period occurring from lasttreatment period visit or Early Termination Visit (ETV) up to a minimum of 12 weeksfollowing that visit. 
+
+Patients were randomized to receive placebo (N=431), 80 mg ixekizumab every 2 (IXE&#45;Q2W, N=433) or 4 weeks (IXEQ4W, N=432). 
+Ixekizumabtreated responders (sPGA 0/1 at Week 12) were re&#45;randomized to receive placebo (N=226), IXE&#45;Q4W(N=229), or IXE&#45;Q12W (N=227) during Weeks 12&#45;60. </TreatmentPlan>
+  <StudyKeywords>double blind/blinded, efficacy, immunogenicity, multiple arm, pharmacodynamics, pharmacokinetics, placebo control, randomized, safety</StudyKeywords>
+  <StudyDesign>Study Type: Interventional
+Study Design: Allocation: Randomized
+Endpoint Classification: Safety/Efficacy Study
+Intervention Model: Parallel Assignment
+Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor)
+Primary Purpose: Treatment 
+
+A Phase III, multicenter, pharmacokinetic (PK)/pharmacodynamic,immunogenicity, placebo controlled  pivotal study. </StudyDesign>
+  <SupportingURLs>
+    <SupportingURL>https://www.ncbi.nlm.nih.gov/pubmed/28190255</SupportingURL>
+    <SupportingURL>http://archderm.jamanetwork.com/article.aspx?articleid=2498595&amp;resultClick=3</SupportingURL>
+    <SupportingURL>http://cc.talkpoint.com/barc002/031114a_bc/?entity=14_KL8RXN4</SupportingURL>
+    <SupportingURL>http://cctsnews.rockefeller.edu/get_minutes.php?id=59</SupportingURL>
+    <SupportingURL>http://centerwatch.com/clinical&#45;trials/listings/studydetails.aspx?StudyID=182364</SupportingURL>
+    <SupportingURL>http://clinicalstudies.rucares.org/protocol.php?id=385&amp;cat=19</SupportingURL>
+    <SupportingURL>http://clinicaltrials.gov/ct2/show/study/NCT01474512</SupportingURL>
+    <SupportingURL>http://dawesfretzinresearch.net/clinical&#45;studies/</SupportingURL>
+    <SupportingURL>http://expertnet.org/index.cfm?fuseaction=projects.details&amp;id=213465</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/1165398826x0x558638/0278c905&#45;3d9d&#45;4f4e&#45;87b5&#45;e8733690dcd7/Ixekizumab_Call_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/1414690484x0x887670/B9977BC8&#45;901D&#45;407E&#45;8BFA&#45;4191C26B90F4/Q1_2016_PressRelease.pd</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/1414690484x0x887673/9650BB04&#45;334D&#45;4D97&#45;9892&#45;D3EA4B157467/Q1_2016_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/1414690484x0x901212/282CF33D&#45;888A&#45;42E4&#45;AD0D&#45;56B639837636/Q2_2016_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/1414690484x0xS59478&#45;16&#45;353/59478/filing.pdf CTS142 14 Jun 2016 AI</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/1509113956x0x510085/e8737256&#45;ffb6&#45;4ed9&#45;9f34&#45;20629f7c7ec3/Q3_2011_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/1602599974x0x877883/4A304081&#45;36F5&#45;4132&#45;BD81&#45;C7FD63D7BA64/LLY_News_2016_2_26_Product.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/2119547829x0x631051/3b5192ad&#45;003a&#45;4ba4&#45;95fb&#45;8d6a0410d2f8/LLY_Q4_2012_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/2251755336x0x895782/521F1FAA&#45;1FEB&#45;4230&#45;AAEF&#45;1783CA5E30A7/LLY_News_2016_6_8_Product.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/2440344167x0x655990/016492c9&#45;7a9a&#45;4ef6&#45;8b40&#45;4838d4f5ef68/Q1_2013_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/2511445703x0x678669/d90dc9fa&#45;da40&#45;4bb3&#45;82f6&#45;02acaa752eb7/Q2_2013_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/2614903985x0x694641/560cf84f&#45;3617&#45;494b&#45;aeca&#45;92b507744e08/2013_Investment_Community_Meeting.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/2752375465x0x698939/6566aa30&#45;7796&#45;4765&#45;85d7&#45;66695e804592/Q3_2013_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/3352880761x0x770508/e97384ea&#45;95d8&#45;4661&#45;81ae&#45;3284a6ffec30/Q2_2014_Slides.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/3372138650x0x777848/279fce9c&#45;11a4&#45;48bc&#45;a417&#45;c5d027ef7fb7/LLY_News_2014_8_21_Product.pdf</SupportingURL>
+    <SupportingURL>http://files.shareholder.com/downloads/LLY/834589106x0x855702/09A0D7A3&#45;E748&#45;4E44&#45;95CF&#45;C83D591BEA86/Q3_2015_Slides.pdf</SupportingURL>
+    <SupportingURL>http://health.usf.edu/NR/rdonlyres/2A600982&#45;D7D8&#45;4B9F&#45;8C5B&#45;BFCC2BD85140/0/FENSKECV050113.pdf</SupportingURL>
+    <SupportingURL>http://jobs.edu.ro/fisiere/universitati/27/1808/cv/CV%20Ianosi%20Gabriel.pdf</SupportingURL>
+    <SupportingURL>http://jpmorgan.metameetings.com/confbook/healthcare15/ciwc.php?webfeed=1&amp;p=16905</SupportingURL>
+    <SupportingURL>http://jpmorgan.metameetings.com/confbook/healthcare15/directlink.php?p=16905</SupportingURL>
+    <SupportingURL>http://lilly.mediaroom.com/index.php?s=9042&amp;item=137440</SupportingURL>
+    <SupportingURL>http://lilly.mediaroom.com/index.php?s=9042&amp;item=137525</SupportingURL>
+    <SupportingURL>http://lilly.mediaroom.com/index.php?s=9042&amp;item=137527</SupportingURL>
+    <SupportingURL>http://link.springer.com/article/10.1007%2Fs40257&#45;016&#45;0246&#45;9</SupportingURL>
+    <SupportingURL>http://nccoastclinicalresearch.com/wp&#45;content/uploads/2013/06/Wilmington&#45;Area&#45;Clinical&#45;Trials&#45;062113.xlsx</SupportingURL>
+    <SupportingURL>http://onlinelibrary.wiley.com/doi/10.1111/bjd.14464/full</SupportingURL>
+    <SupportingURL>http://onlinelibrary.wiley.com/doi/10.1111/jdv.14163/abstract</SupportingURL>
+    <SupportingURL>http://public.ukcrn.org.uk/search/StudyDetail.aspx?StudyID=11689</SupportingURL>
+    <SupportingURL>http://ricerca&#45;clinica.agenziafarmaco.it/it/node/index.php?q=node/150&amp;&amp;Cerca=centri&amp;&amp;ID_STUD=49243&amp;&amp;TIPOLOGIA=1</SupportingURL>
+    <SupportingURL>http://ricerca&#45;clinica.agenziafarmaco.it/it/node/index.php?q=node/150&amp;&amp;Cerca=farmaci&amp;&amp;ID_STUD=49243&amp;&amp;TIPOLOGIA=1</SupportingURL>
+    <SupportingURL>http://ricerca&#45;clinica.agenziafarmaco.it/it/node/index.php?q=node/150&amp;Cerca=studio&amp;ID_STUD=49243&amp;TIPOLOGIA=1</SupportingURL>
+    <SupportingURL>http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/125521Orig1s000MedR.pdf</SupportingURL>
+    <SupportingURL>http://www.badaniaklinicznewpolsce.pl/baza&#45;badan&#45;klinicznych/art,623.html</SupportingURL>
+    <SupportingURL>http://www.centerwatch.com/clinical&#45;trials/listings/studydetails.aspx?StudyID=180867</SupportingURL>
+    <SupportingURL>http://www.clinicalstudyinpsoriasis.com/</SupportingURL>
+    <SupportingURL>http://www.clinicaltrials.jp/user/showCteDetailE.jsp?japicId=JapicCTI&#45;121952</SupportingURL>
+    <SupportingURL>http://www.cskmswia.pl/download/70/15613/CSKMSWBADANIAKLINICZNEINFORMACJA.docx</SupportingURL>
+    <SupportingURL>http://www.dermassociates.com/clinicaltrials.php</SupportingURL>
+    <SupportingURL>http://www.ereumatologia.pl/Badania&#45;kliniczne/63433</SupportingURL>
+    <SupportingURL>http://www.jaad.org/article/S0190&#45;9622(16)31002&#45;7/fulltext</SupportingURL>
+    <SupportingURL>http://www.lilly.com/SiteCollectionDocuments/Pipeline/Clinical%20Development%20Pipeline/14.html</SupportingURL>
+    <SupportingURL>http://www.lilly.com/SiteCollectionDocuments/Pipeline/Clinical%20Development%20Pipeline/index.html#PhaseI</SupportingURL>
+    <SupportingURL>http://www.montefiore.org/body.cfm?id=2204&amp;action=detail&amp;ref=211</SupportingURL>
+    <SupportingURL>http://www.ncbi.nlm.nih.gov/pubmed/?term=26953848</SupportingURL>
+    <SupportingURL>http://www.ncbi.nlm.nih.gov/pubmed/27299809</SupportingURL>
+    <SupportingURL>http://www.nejm.org/doi/full/10.1056/NEJMoa1512711#t=abstract</SupportingURL>
+    <SupportingURL>http://www.nejm.org/doi/pdf/10.1056/NEJMoa1512711</SupportingURL>
+    <SupportingURL>http://www.nejm.org/doi/suppl/10.1056/NEJMoa1512711/suppl_file/nejmoa1512711_appendix.pdf</SupportingURL>
+    <SupportingURL>http://www.nejm.org/doi/suppl/10.1056/NEJMoa1512711/suppl_file/nejmoa1512711_protocol.pdf</SupportingURL>
+    <SupportingURL>http://www.nres.nhs.uk/researchsummaries/?entryid29=142085&amp;q=0&#126;12%2fEE%2f0036&#126;</SupportingURL>
+    <SupportingURL>http://www.reillyassociates.net/WPAI_PSO_V2_Russian&#45;Israel.doc</SupportingURL>
+    <SupportingURL>http://www.scholars.northwestern.edu/grantDetail.asp?t=ep1&amp;id=16084&amp;o_id=87</SupportingURL>
+    <SupportingURL>http://www.sec.gov/Archives/edgar/data/59478/000119312512078393/d266023d10k.htm</SupportingURL>
+    <SupportingURL>https://clinicaltrials.gov/ct2/show/results/NCT01474512</SupportingURL>
+    <SupportingURL>https://dermassociates.com/clinical&#45;trials/psoriasis/</SupportingURL>
+    <SupportingURL>https://eventmobi.com/api/events/11049/documents/download/397f0e23&#45;07dc&#45;4cc3&#45;91d9&#45;d8782c71dcd7.pdf/as/P9.07%20Integrated%20safety%20of%20ixekizumab%20in%20patients%20with%20moderate%20to%20severe%20psoriasis%20Results%20from%20a%20pooled%20analysis%20of%207%20clinical%20trials,%20Bissonnette.pdf</SupportingURL>
+    <SupportingURL>https://eventmobi.com/api/events/11049/documents/download/3bd1d8ba&#45;96a3&#45;44af&#45;9e97&#45;5d095f4887e8.pdf/as/P9.08%20Impact%20of%20ixekizumab%20treatment%20on%20fingernail%20psoriasis%20results%20from%20UNCOVER&#45;1,%20Guenther.pdf</SupportingURL>
+    <SupportingURL>https://eventmobi.com/api/events/11049/documents/download/7dbe21f3&#45;ce23&#45;4f6e&#45;8d47&#45;452abab5924e.pdf/as/P17.03%20Treatment%20with%20ixekizumab%20over%2060%20weeks%20provides%20sustained%20improvements%20in%20health&#45;related%20quality%20of%20life%20Results%20from%20UNCOVER&#45;1,%20a%20randomized%20Phase%203%20trial,%20Adam.pdf</SupportingURL>
+    <SupportingURL>https://guidebook.com/guide/54032/poi/4541925/</SupportingURL>
+    <SupportingURL>https://investor.lilly.com/common/download/download.cfm?companyid=LLY&amp;fileid=893471&amp;filekey=8F87B4E7&#45;9E11&#45;4894&#45;BA1A&#45;446062715EED&amp;filename=LLY_RandD_Update_AM_Session.pdf</SupportingURL>
+    <SupportingURL>https://investor.lilly.com/releasedetail2.cfm?ReleaseID=588192</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=2501&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=2710&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=2711&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=2859&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=3031&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=3101&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=3232&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=3413&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=3417&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=3813&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/Submissions/getFile.aspx?id=4551&amp;type=sub</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=2501</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=2710</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=2859</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=3031</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=3101</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=3232</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=3413</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=3417</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=3813</SupportingURL>
+    <SupportingURL>https://www.aad.org/eposters/view/Abstract.aspx?id=4551</SupportingURL>
+    <SupportingURL>https://www.aad.org/Symposium/LBAM2015/file/index/Late&#45;breaking%20Research%20Abstract%20Book.pdf</SupportingURL>
+    <SupportingURL>https://www.clinicaltrialsregister.eu/ctr&#45;search/search?query=2011&#45;002970&#45;22</SupportingURL>
+    <SupportingURL>https://www.lilly.co.jp/emergency/2015/news_2015_014.aspx</SupportingURL>
+    <SupportingURL>https://www.ncbi.nlm.nih.gov/pubmed/26852717</SupportingURL>
+    <SupportingURL>https://www.ncbi.nlm.nih.gov/pubmed/28026199</SupportingURL>
+    <SupportingURL>https://www.ncbi.nlm.nih.gov/pubmed/28074446</SupportingURL>
+  </SupportingURLs>
+  <TrialResults>
+    <TrialResult>June 23, 2016
+
+Presented at the 91st Canadian Dermatology Association (CDA) Annual Conference, June 22&#45;25, 2016, Saskatoon, Saskatchewan, Canada
+Abstract No. P17.03
+
+Richard G. Langley , Steven R. Feldman , Carle Paul , Kenneth B. Gordon, David Adam , Melinda Gooderham ,Vibeke Strand , Darryl Toth , Richard B. Warren  , Russel T. Burge , Baojin Zhu  , Kristian Reich;
+
+Treatment With Ixekizumab Over 60 Weeks Provides Sustained Improvements In Health&#45;Related Quality Of Life: Results From UNCOVER&#45;1, A Randomized Phase 3 Trial
+
+Results:
+Patients treated with ixekizumab during induction and continuing on IXE Q4W during the maintenance period reported a significant change in their DLQI scores at Week 12 (baseline mean score: 12.7; Week 12 mean change: &#45;11.3, p &lt; .001 vs. baseline); this improvement was sustained throughout the 48&#45;week maintenance period (Week 60 mean change from baseline: &#45;11.2, p &lt; .001 vs. baseline). Additionally, at Week 60, 66.4% of IXE Q4W patients reported a DLQI score of 0 or 1
+
+Conclusions:
+Commonly reported psoriasis impact on HRQoL is again demonstrated by high baseline DLQI scores here. Among high responder patients, ixekizumab provides sustained improvements in HRQoL with continued treatment, and two thirds of these patients reported essentially no detectable impairment in their daily life due to psoriasis. Therefore, ixekizumab represents a potential long&#45;term treatment option for patients who are responders.
+
+https://eventmobi.com/api/events/11049/documents/download/7dbe21f3&#45;ce23&#45;4f6e&#45;8d47&#45;452abab5924e.pdf/as/P17.03%20Treatment%20with%20ixekizumab%20over%2060%20weeks%20provides%20sustained%20improvements%20in%20health&#45;related%20quality%20of%20life%20Results%20from%20UNCOVER&#45;1,%20a%20randomized%20Phase%203%20trial,%20Adam.pdf</TrialResult>
+    <TrialResult>March 4, 2016
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 2711
+
+April Armstrong, Scott Fretzin, Sandy McBride, Russel Burge, Baojin Zhu, Emily Edson&#45;Heredia, Fangyi Zhao, Anke Beselin, and Kenneth Gordon
+
+Treatment with Ixekizumab over 60 Weeks Provides Sustained Improvements in Work Productivity and Activity Levels: Results from UNCOVER&#45;1, a Phase 3 Trial in Patients with Moderate&#45;to&#45;Severe Psoriasis.
+
+Results: 
+High responder patients (sPGA 0/1) who continued on IXE Q4W treatment during the maintenance period (n=229) reported a significant change in their WPAI scores at Week 12 from baseline (Baseline scores &#45; Abs: 3.8, Pres: 19.7, WPL: 21.7, AI: 31.4; Week 12 change from baseline: Abs: &#45;3.9, Pres: &#45;16.8; WPL: &#45;18.3, AI: &#45;27.5; p&lt; .01 vs. baseline for all). These significant reductions in WPAI scores were sustained throughout the maintenance period (Week 60 change from baseline: Abs: &#45;3.2, Pres: &#45;17.8, WPL: &#45;19.0, AI: &#45;28.4; p&lt; .05 vs. baseline for all).
+
+Conclusions:
+High responder patients continued on IXE Q4W showed significant improvement in their work productivity and activity levels at Week 12 and reported little variation in the maintenance period. These data demonstrate that treatment with IXE provides patients with the sustained ability to improve their work&#45;related attendance, productivity, and overall activity levels.
+
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=2711&amp;type=sub https://www.aad.org/eposters/view/Abstract.aspx?id=2711</TrialResult>
+    <TrialResult>March 4, 2016
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 2710
+
+Richard Langley, Steve Feldman, Carle Paul, Kenneth Gordon, Vibeke Strand, Darryl Toth, Richard B. Warren, Russel Burge, Baojin Zhu, Orin Goldblum, Emily Edson&#45;Heredia, Kristin Hollister, and Kristian Reich
+
+Treatment with Ixekizumab over 60 Weeks Provides Sustained Improvements in HealthRelated
+Quality of Life: Results from UNCOVER&#45;1, a Randomized Phase 3 Trial
+
+Results: 
+Patients treated with IXE during the induction phase and continued on IXE Q4W treatment during the maintenance period reported a significant change in their DLQI scores at Week 12 from baseline (baseline mean score: 12.7; Week 12 mean change: &#45;11.3, p&lt; .001 vs. baseline); this improvement was maintained throughout the 48&#45;week maintenance period (Week 60 mean change from baseline: &#45;11.2, p&lt; .001 vs. baseline). Additionally, at Week 60, 66.4% of IXE Q4W patients reported a DLQI score of 0 or 1.
+
+Discussion: 
+At baseline, patients with psoriasis face a considerable burden to their HRQoL due to the disease. Among high responder patients, IXE provides sustained improvements in HRQoL with continued treatment, and two thirds of these patients reported essentially no detectable impairment in their daily life due to psoriasis. Therefore, IXE represents a potential long&#45;term treatment option for patients who are responders.
+
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=2710&amp;type=sub
+https://www.aad.org/eposters/view/Abstract.aspx?id=2710</TrialResult>
+    <TrialResult>March 4, 2016
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 2501
+Alexandra B. Kimball, Thomas Luger, Alice B. Gottlieb, Roland Kaufmann, Luis Puig, Russel Burge, Baojin Zhu, Orin Goldblum, Emily Edson&#45;Heredia, Enkeleida Nikai and Gil Yosipovitch 
+
+Treatment with ixekizumab over 60 weeks provides sustained improvements in itch and other patient reported outcomes: Results from UNCOVER&#45;1, a Phase 3 trial 
+
+Results: 
+At Wk 60, significant improvements in itch, skin pain, and PSAB were observed between IXE Q4W (p&lt; 0.001) or IXE Q12W (p&lt; .05) vs. PBO. Among patients treated with IXE Q4W during the maintenance period, the mean change from baseline (BL; score: 6.7) in Itch NRS at Wk 12 was &#45;5.7 (p&lt; .001 vs. BL) and remained the same at Wk 60 (p&lt; .001 vs. BL). The percentage of patients maintaining an Itch NRS score of 0 was similar between Wk 12 (52.4%) and Wk 60 (50.2%). Skin pain was also significantly reduced from BL (score: 45.9) to Wk 12 (change from BL: &#45;41.7, p&lt; .001 vs. BL) through Wk 60 (change from BL: &#45;40.3, p&lt; .001 vs. BL). The rate of patients reporting no skin pain remained similar from Wk 12 (55.0%) through Wk 60 (52.4%). Finally, changes in PSAB scores from BL (score: 23.9) remained consistent from Wk 12 (&#45;20.9; p&lt; .001 vs. BL) through Wk 60 (&#45;21.8; p&lt; .001 vs. BL).
+
+Conclusions:
+IXE provides effective and sustained improvement in itch, skin pain, and PSAB outcomes over 60 weeks. 
+
+https://www.aad.org/eposters/view/Abstract.aspx?id=2501 
+
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=2501&amp;type=sub
+</TrialResult>
+    <TrialResult>March 20, 2015	
+	
+Presented at the 73rd Annual Meeting of American Academy of Dermatology, March 20&#45;24, 2015 San Francisco, California	
+Session Title: F010: Late&#45;breaking Research: Therapeutic 	
+Kenneth Gordon, Andrew Blauvelt, Richard Langley, Thomas Luger, Mamitaro Ohtsuki, Gregory Cameron, Daniel Braun, Janelle Erickson, Fangyi Zhao, David Shrom, Olawale Osuntokun, Michael Heffernan, Brian Nickoloff, Craig Leonardi 
+	
+Ixekizumab for Treatment of Moderate&#45;to&#45;Severe Plaque Psoriasis: 60&#45;week Results from a Double&#45;Blind Phase 3 Induction and Randomized Withdrawal Study (UNCOVER&#45;1) 	
+	
+Results: 
+More patients receiving IXE&#45;Q2W and IXE&#45;Q4W achieved sPGA 0/1 (81.8% and 76.4%), PASI 75 (89.1% and 82.6%) or PASI 100 (35.3% and 33.6%, respectively) compared to placebo (sPGA 0/1: 3.2%; PASI 75: 3.9%; PASI 100: 0; p&lt;0.001). Among ixekizumab&#45;treated responders, 72.9% maintained sPGA 0/1, 77.7% maintained/achieved PASI 75, and 52.0% maintained/achieved PASI 100 at Week 60 in the IXE&#45;Q4W group. Week 12 serious adverse event rates were 1.4%, 2.8%, and 1.2% in IXE&#45;Q2W, IXE&#45;Q4W and placebo groups, respectively. Exposure&#45;adjusted rates during Weeks 12&#45;60 were comparable to those in the induction period for IXE&#45;Q4W group. 
+	
+Conclusion: 
+Ixekizumab induction dosing regimens were superior to placebo, and response was maintained with IXE&#45;Q4W dosing through 60 weeks with an acceptable safety profile. 
+	
+[Page No.: 19] 	
+https://www.aad.org/Symposium/LBAM2015/file/index/Late&#45;breaking%20Research%20Abstract%20Book.pdf </TrialResult>
+  </TrialResults>
+  <PrimaryResearchResults></PrimaryResearchResults>
+  <TrialTags>
+    <TrialTag>Registration</TrialTag>
+  </TrialTags>
+  <TrialOutcomes>
+    <TrialOutcome>Completed, Positive outcome/primary endpoint(s) met</TrialOutcome>
+  </TrialOutcomes>
+  <OutcomeDetails>August 21, 2014
+
+...Ixekizumab met all primary and key secondary objectives across three pivotal studies of 3,866 patients...pivotal UNCOVER studies in moderate to severe plaque psoriasis.
+
+http://files.shareholder.com/downloads/LLY/3372138650x0x777848/279fce9c&#45;11a4&#45;48bc&#45;a417&#45;c5d027ef7fb7/LLY_News_2014_8_21_Product.pdf
+</OutcomeDetails>
+  <Notes>
+<Note>June 30, 2011 
+
+Excerpted from: Lilly Outlines For Investors How Its Innovation&#45;Based Strategy and Robust Pipeline Will Drive Future Growth Following Upcoming Patent Expirations
+
+...Business Area Updates
+
+...Bio&#45;Medicines
+
+...Select key molecules in the Bio&#45;Medicines mid&#45;to&#45;late stage clinical pipeline include: 
+
+... Anti &#45;IL&#45;17 monoclonal antibody &#45; Based on encouraging Phase II data, the company is initiating a Phase III program for this antibody. The company intends to begin a Phase III program in psoriasis in 2011 and is actively planning Phase III trials in RA, psoriatic arthritis as well as ankylosing spondylitis...
+
+https://investor.lilly.com/releasedetail2.cfm?ReleaseID=588192</Note>
+<Note>October 20, 2011 
+
+Eli Lilly and Company Third Quarter Financial Review 
+
+Slide no.: 18 
+Key Future Events in 2011 and 2012 
+
+Potential Phase 3 trial initiation: 
+anti&#45;IL&#45;17 monoclonal antibody 
+
+http://files.shareholder.com/downloads/LLY/1509113956x0x510085/e8737256&#45;ffb6&#45;4ed9&#45;9f34&#45;20629f7c7ec3/Q3_2011_Slides.pdf</Note>
+<Note>October 20, 2011
+
+Excerpted from Eli Lilly Q3 2011 Earnings Conference Call
+
+Derica Rice, Eli Lilly And Co&#45;CFO stated that the company expects to start Phase III trial of anti&#45;IL 17 monoclonal antibody in psoriasis before year end.
+
+http://investor.lilly.com/eventdetail.cfm?eventid=77914</Note>
+<Note>March 6, 2012 
+
+Presented at the Cowen &amp; Company 32nd Annual Healthcare Conferenced, Boston, MA, March 5&#45;7, 2012
+
+Based on compelling Phase 2 data, Lilly began the Phase 3 testing in December in adults with moderate to severe chronic plaque psoriasis. The first Phase 3 study will include about 1,300 patients with a randomized, double&#45;blind, placebo&#45;controlled induction period followed by a randomized maintenance dosing period and long&#45;term evaluation stage.
+
+http://investor.lilly.com/events.cfm</Note>
+<Note>April 10, 2012 
+
+Eli Lilly &gt; Ixekizumab Phase 2 Psoriasis Data Investment Community Discussion
+
+Slide no:. 16
+
+Current Plans
+
+One Phase 3 trial ongoing in psoriasis:
+&#8212; Initiated in December 2011
+&#8212; Randomized, double&#45;blind, placebo&#45;controlled
+&#8212; Patients with chronic moderate&#45;to&#45;severe plaque psoriasis
+&#8212; &#126;1,300 patients in the U.S., Canada, Europe, Japan and Australia
+&#8212; Ixekizumab dosing mimics exposures at 75 mg and 150 mg doses in Phase 2 study
+&#8212; Primary endpoints include sPGA 0 or 1 and PASI 75
+
+Two additional Phase 3 trials in psoriasis to begin this year
+
+excerpted from conference:
+Our first Phase III trial ...Patients are randomized initially into one of three arms. Two arms with different dosing schedules of Ixekizumab and one arm with placebo. At 12 weeks, responder patients will then be rerandomized to two different Ixekizumab dosing schedules or placebo during the maintenance period, and will then be followed on these dosing schedules through 60 weeks. The primary endpoints for the study are SPGA 0 or 1 as well as PASI 75 at 12 weeks. 
+
+we initiated our Phase III trial program in psoriasis in December... We expect to initiate two additional Phase III psoriasis trials within the next few months...
+
+...we're now undertaking a larger&#45;scale Phase III program to understand the overall benefit risk for patients in this disease setting.
+
+Question: do you expect to have all Phase III trials in hand to file the product?
+
+Answer: Yes... all three trials are global studies and we expect the data from all three of those trials to support a global regulatory submission...we anticipate in April 2014 the primary completion timing of the Phase III program..
+
+http://files.shareholder.com/downloads/LLY/1165398826x0x558638/0278c905&#45;3d9d&#45;4f4e&#45;87b5&#45;e8733690dcd7/Ixekizumab_Call_Slides.pdf </Note>
+<Note>February 24, 2012 
+
+Eli Lilly and Company, Form: 10&#45;K
+
+...The following new molecular entities (NMEs) are currently in Phase III clinical trial testing for potential use in the diseases described. The quarter in which the NME initially entered Phase III for any indication is shown in parentheses:
+
+...Ixekizumab&#45;formerly IL&#45;17 MAb (Q4 2011)&#45;a monoclonal antibody for the treatment of psoriasis...
+
+...The following late&#45;stage pipeline developments have occurred since January 1, 2011:
+
+...Ixekizumab&#45;In November, we began the first Phase III clinical trial for ixekizumab...
+
+Page # 18 at:
+http://www.sec.gov/Archives/edgar/data/59478/000119312512078393/d266023d10k.htm</Note>
+<Note>JAPIC Clinical Trial Information, Registered on September 11, 2012 
+
+JapicCTI&#45;No.: JapicCTI&#45;121952 
+
+Recruitment status: Recruiting closed &#45; ongoing study 
+
+Contact information 
+
+Organization: Parexel International 
+
+http://www.clinicaltrials.jp/user/showCteDetailE.jsp?japicId=JapicCTI&#45;121952 </Note>
+<Note>Associated CRO: Parexel
+
+http://www.clinicaltrials.jp/user/showCteDetailE.jsp?japicId=JapicCTI&#45;121952 </Note>
+<Note>EU Clinical Trials Register, accessed on March 24, 2016 (Content unchanged since: October 20, 2012)
+
+EudraCT Number: 2011&#45;002970&#45;22
+Sponsor Protocol Number: I1F&#45;MC&#45;RHAZ
+Start Date: 05/31/2012 
+Trial protocol: DE (Ongoing) GB (Ongoing) HU (Ongoing) PL (Ongoing) IT (Ongoing) DK (Ongoing)
+
+Note:  Number of anticipated sites, planned number of subjects, and estimated trial duration for each member state concerned (and in the EEA overall) are available at source. To access this information, click into each country code at main posting.
+
+https://www.clinicaltrialsregister.eu/ctr&#45;search/search?query=2011&#45;002970&#45;22</Note>
+<Note>The Portal of Clinical Research on Drugs (PRC) of the Italian Drug Agency (AIFA), as accessed on October 20, 2012 
+
+The study is: Open from April 11, 2012 
+
+Identification of the study: 2011&#45;002970&#45;22 
+Code Protocol promoter: I1F&#45;MC&#45;RHAZ 
+
+Abbreviated title of the trial: Uncover&#45;1 
+This is a study: Multicenter in Italy 
+
+Actual number of centers in Italy: 10 
+Anticipated duration of enrollment in Italy: 10 Months 
+Expected duration of the trial in its entirety Italy: 67 Months 
+
+Number of planned centers in Europe: 59 
+Third countries in which it is planned to be involved clinical centers: AUSTRALIA, CANADA, JAPAN, UNITED STATES 
+Expected duration of the trial in its entirety in the world: 67 Months 
+
+Projected population: 100 in Italy, 432 in Europe, 1296 in the world 
+
+http://ricerca&#45;clinica.agenziafarmaco.it/it/node/index.php?q=node/150&amp;Cerca=studio&amp;ID_STUD=49243&amp;TIPOLOGIA=1 </Note>
+<Note>January 29, 2013 
+
+Eli Lilly and Company Fourth Quarter 2012 Financial Review 
+
+Slide No.: 13 
+
+Lilly NME Pipeline January 21, 2013 
+
+Development stage: Phase III 
+Drug: Ixekizumab 
+Indication: psoriasis 
+
+http://files.shareholder.com/downloads/LLY/2119547829x0x631051/3b5192ad&#45;003a&#45;4ba4&#45;95fb&#45;8d6a0410d2f8/LLY_Q4_2012_Slides.pdf</Note>
+<Note>Northwestern University&gt; Kenneth B Gordon &gt; Grant Detail as accessed on  July 30, 2014 (Content unchanged since February 1, 2013) 
+
+Prot# I1F&#45;MC&#45;RHAZ: A Multicenter Study with a Randomized, Double&#45;Blind, Placebo&#45;Controlled Induction Dosing Period Followed by a Randomized Maintenance Dosing Period and a Long&#45;Term Extension Period to Evaluate the Efficacy and Safety of LY2439821 in Patients with Moderate&#45;to&#45;Severe Plaque Psoriasis
+
+Kenneth Gordon; Anne Laumann
+4/30/2012 &#45; 11/30/2017
+
+Document ID: I1F&#45;MC&#45;RHAZ
+Sponsoring Organization: Parexel 
+
+Anne E Laumann (CO&#45;PD/PI)
+Kenneth B Gordon (PRINCIPAL INVESTIGATOR) 
+
+http://www.scholars.northwestern.edu/grantDetail.asp?t=ep1&amp;id=16084&amp;o_id=87</Note>
+<Note>UK Clinical Research Network (UKCRN) as accessed on July 30, 2014 (Content unchanged since May 2, 2013) 
+
+CCRN 759 (Plaque Psoriasis) 
+UKCRN ID: 11689 
+Phase: III 
+Current Status: Closed &#45; in follow&#45;up 
+Global Sample Size: 1296 
+Lead Country: England (also active in Scotland) 
+Chief Investigator(s): Prof Chris Griffiths 
+Funder(s): Eli Lilly and Company Limited 
+
+http://public.ukcrn.org.uk/search/StudyDetail.aspx?StudyID=11689</Note>
+<Note>Eli Lilly &gt; pipeline, Pipeline data through July 17, 2014 [Content Unchanged Since: July 15, 2013 ]
+
+Development stage: Phase III 
+Drug: Ixekizumab 
+Indication: psoriasis 
+
+Phase III Business area: Bio&#45;Medicines 
+LY2439821 (Anti&#45;IL&#45;17 monoclonal antibody) is a biologic entity that neutralizes a soluble factor called interleukin&#45;17A (IL&#45;17). LY2439821 is being studied for the treatment of psoriasis..
+
+http://www.lilly.com/SiteCollectionDocuments/Pipeline/Clinical%20Development%20Pipeline/index.html#PhaseI </Note>
+<Note>The Rockefeller University Hospital, as accessed on July 30, 2014 (Content unchanged sinceOctober 14, 2013)
+
+Clinical Studies and Protocols
+
+(JKR&#45;0772) LY2439821 in Patients with Moderate&#45;to&#45;Severe Plaque Psoriasis 
+
+Enrollment Status: Not yet recruiting 
+
+http://clinicalstudies.rucares.org/protocol.php?id=385&amp;cat=19</Note>
+<Note>October 3, 2013
+
+Eli Lilly Investment Community Meeting
+
+Excerpted from conference call:
+
+... Phase III program for ixekizumab, three pivotal studies...a placebo&#45;controlled study and two head&#45;to&#45;head studies
+
+...placebo controlled study is fully enrolled...anticipate the trials completing..second half of 2014.
+
+...exploring dosing regimens ranging from every two weeks to once every three months...dosing flexibility may better serve patients (with) moderate to severe psoriasis. 
+
+http://files.shareholder.com/downloads/LLY/2614903985x0x694641/560cf84f&#45;3617&#45;494b&#45;aeca&#45;92b507744e08/2013_Investment_Community_Meeting.pdf</Note>
+<Note>July 24, 2013 
+
+Eli Lilly and Company 
+Second Quarter 2013 Financial Review 
+
+(Slide#12) 
+
+Lilly NME Pipeline 
+July 15, 2013 
+
+Ixekizumab 
+psoriasis/PsA 
+Phase III 
+
+http://files.shareholder.com/downloads/LLY/2511445703x0x678669/d90dc9fa&#45;da40&#45;4bb3&#45;82f6&#45;02acaa752eb7/Q2_2013_Slides.pdf</Note>
+<Note>October 23, 2013 
+
+Eli Lilly &gt; 3 Q 2013 Financial Review 
+
+Slide No.: 12 
+
+Lilly NME Pipeline 
+
+Development stage: Phase III 
+Drug: Ixekizumab 
+Indication: Psoriasis
+
+http://files.shareholder.com/downloads/LLY/2752375465x0x698939/6566aa30&#45;7796&#45;4765&#45;85d7&#45;66695e804592/Q3_2013_Slides.pdf</Note>
+<Note>March 4, 2014
+
+Presented at Cowen and Company 34th Annual Health Care Conference, Boston, MA, March 3&#45;5, 2014
+
+From Q&amp;A session with Derica Rice, EVP of Eli Lilly and Company
+
+Eli Lilly is expecting to get the data on the IL&#45;17 compound later this year, probably around mid&#45;year to get the readout on their ixekizumab.
+
+http://www.wsw.com/webcast/cowen16/lly/</Note>
+<Note>March 12, 2014
+
+Eli Lilly at Barclays Healthcare Conference 
+
+excerpted from conference call:
+...We think &#45; a superior dosing and easier to use than Secukinumab. Our program [is] studying every two week use including a loading dose, with the allowance to step down dosing through &#45;&#45; as [patients] can use less drug. This is the reverse of what Novartis proposed ...We will read out these studies in the second half of this year... 
+
+[webcast available]
+http://cc.talkpoint.com/barc002/031114a_bc/?entity=14_KL8RXN4</Note>
+<Note>July 24, 2014 
+
+Eli Lilly 
+Q2 2014 Financial Review 
+
+Page No.: 13 
+Lilly NME Pipeline (July 17, 2014) 
+
+Phase 3 
+Ixekizumab * 
+psoriasis 
+
+* New Biotech Entity (NBE) 
+
+Page No.: 14 
+Key Events in 2014 
+
+Potential Phase 3 data internal readouts: 
+Ixekizumab for psoriasis 
+
+excerpted from conference call:
+...we expect internal data readouts in the second half of this year, with ixekizumab...
+
+http://files.shareholder.com/downloads/LLY/3352880761x0x770508/e97384ea&#45;95d8&#45;4661&#45;81ae&#45;3284a6ffec30/Q2_2014_Slides.pdf </Note>
+<Note>August 21, 2014
+
+Lilly's Ixekizumab Superior to Etanercept and Placebo in Phase 3 Psoriasis Studies
+
+Indianapolis , Aug. 21, 2014 /PRNewswire/ &#45;&#45;
+
+&#45; Ixekizumab met all primary and key secondary objectives across three pivotal studies of 3,866 patients, the largest
+Phase 3 moderate&#45;to&#45;severe plaque psoriasis program to date
+&#45; Ixekizumab was superior to etanercept on all measures of skin clearance in both active comparator studies
+&#45; Lilly plans regulatory submissions for ixekizumab in 1st half of 2015
+
+Eli Lilly and Company's investigational medicine ixekizumab was statistically superior to etanercept and placebo on all skin clearance measures in Phase 3 studies, the company said today in disclosing top&#45;line results from its pivotal UNCOVER studies in moderate&#45;to&#45;severe plaque psoriasis...
+
+...Study design
+
+In the three UNCOVER studies, patients were assigned to receive either placebo or ixekizumab (80 mg every two or four weeks) for 12 weeks, following a 160 mg starting dose. In the two active comparator studies (UNCOVER&#45;2 and 3), patients could be assigned to receive etanercept 50 mg twice weekly for 12 weeks. In UNCOVER&#45;1, responders to treatment were assigned to continue treatment on either placebo or ixekizumab (80 mg every 4 or 12 weeks) for up to 60 weeks.
+
+Results
+
+Patients treated with both dosing regimens of ixekizumab had significantly greater levels of skin clearance compared to placebo and to etanercept at the 12&#45;week endpoint. Skin clearance was measured by standard primary endpoints for psoriasis studies: the Psoriasis Area and Severity Index (PASI) and the Static Physician Global Assessment (sPGA).
+
+For patients treated with ixekizumab either every four weeks or every two weeks, between 78 to 90 percent of patients achieved at least a 75 percent reduction in PASI score (PASI 75) at 12 weeks. Additionally, 31 to 41 percent of these patients achieved PASI 100, or clear skin, at week 12. For comparison, between 5 to 7 percent of patients treated with etanercept in the UNCOVER&#45;2 and 3 studies achieved PASI 100. 
+
+Statistically significant improvements in skin clearance measures for patients treated with ixekizumab were observed as early as the first week when compared to either placebo or etanercept, and continued through week 12. In the UNCOVER&#45;1 study, high levels of response were maintained through 60 weeks of treatment. 
+
+Adverse events were comparable for patients receiving ixekizumab in the 12&#45;week, randomized control portion across all three studies. The overall rates and severities of adverse events observed were comparable to those for etanercept in the two active comparator trials. The most frequently reported events (more than five percent across all three studies) were nasopharyngitis and injection site reaction. Most injection site reactions were mild, and most patients who experienced an  injection site reaction continued treatment with ixekizumab...
+
+...Lilly plans to submit full data from the UNCOVER studies for disclosure at scientific meetings and in peer&#45;reviewed journals in 2015. The company intends to submit ixekizumab to regulatory authorities in the first half of 2015...
+
+...About the UNCOVER studies
+
+Patients enrolled in the UNCOVER studies had a confirmed diagnosis of chronic plaque psoriasis for at least six months prior to randomization. Additionally, at screening and at randomization they demonstrated at least 10 percent Body Surface Area (BSA) of psoriasis, an sPGA score of at least 3 and PASI score of at least 12. UNCOVER&#45;1 compared the safety and efficacy of different dosing regimens of ixekizumab to placebo after 12 weeks and 60 weeks of treatment. UNCOVER&#45;2 and 3 evaluated different dosing regimens of ixekizumab compared to either placebo or etanercept for 12 weeks...
+
+http://files.shareholder.com/downloads/LLY/3372138650x0x777848/279fce9c&#45;11a4&#45;48bc&#45;a417&#45;c5d027ef7fb7/LLY_News_2014_8_21_Product.pdf</Note>
+<Note>January 13, 2015 
+
+Presented at the 33rd Annual JP Morgan Healthcare Conference, January 12&#45;15, 2015, San Francisco, CA 
+
+[Slide 16]
+Strategic Objectives
+Growth revenue
+
+Potential Near&#45;Term Launches
+Ixekizumab  (bio&#45;medicine)
+
+[Slide 17]
+Key Events in 2014
+Potential Phase 3 data internal readouts:
+&#45; Ixekizumab for psoriasis &#8212; checked for positive data
+
+[Slide 18]
+Key Events in 2015
+
+Potential Phase 3 data external disclosures:
+&#45; Ixekizumab for psoriasis
+
+Potential regulatory submissions:
+&#45; Ixekizumab for psoriasis
+
+[Excerpted from webcast] John Lechleiter, Eli Lilly Chairman, President, and CEO
+&#133;Ixekizumab, the most advanced asset in Lilly&apos;s immunology pipeline, met all primary and key secondary objectives in three pivotal studies with almost 4,000 moderate&#45;to&#45;severe plaque psoriasis patients. Between 78% and 90% of the patients treated every two to four weeks with ixekizumab met PASI 75, or 75% improvement in skin clearance, at 12 weeks. Between 31% and 41% of patients saw 100% clearance. Across all three pivotal studies, ixekizumab exhibited a comparable adverse event profile in the 12&#45;week randomized control portion.
+
+Later in 2015, full data from these studies is expected to be submitted to for disclosure at scientific congresses and in peer&#45;review journals and in the first half of 2015 regulatory submissions are planned.
+
+Webcast available at: http://jpmorgan.metameetings.com/confbook/healthcare15/directlink.php?p=16905
+
+Slides available at:
+http://jpmorgan.metameetings.com/confbook/healthcare15/ciwc.php?webfeed=1&amp;p=16905 </Note>
+<Note>Last updated: April 20, 2016
+
+Study Start Date: November 2011
+Estimated Study Completion Date: November 2018
+Primary Completion Date: June 2014 (Final data collection date for primary outcome measure)
+
+https://clinicaltrials.gov/ct2/show/study/NCT01474512 </Note>
+<Note>ANZCTR (Australian New Zealand Clinical Trials Registry) as accessed on May 6, 2015 
+
+Trial ID: NCT01474512 
+Secondary ID: 12972 
+
+Phase: Phase 3
+Date of first participant enrolment: 11/01/2011 
+Target sample size: 1296
+Recruitment status: Active, not recruiting 
+
+Primary Sponsor: Industry 
+Name: Eli Lilly and Company 
+
+https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=3362&amp;isClinicalTrial=True</Note>
+<Note>June 11, 2015
+
+Lilly Announces Webcast to Discuss Ixekizumab Phase III Data
+
+INDIANAPOLIS, June 11, 2015 /PRNewswire/ &#45; Eli Lilly and Company will host a webcast on June 23 to discuss three pivotal Phase III studies investigating ixekizumab for the treatment of moderate&#45;to&#45;severe plaque psoriasis. Data from the UNCOVER&#45;1, &#45;2 and &#45;3 clinical studies will be discussed. In March, data from UNCOVER&#45;1 was presented at the American Academy of Dermatology annual meeting. Earlier this month, additional data from UNCOVER&#45;1 as well as data from UNCOVER&#45;2 and &#45;3 were presented at the World Congress of Dermatology.
+
+The webcast will begin at 10:00 a.m. Eastern Daylight Time. A live audio webcast will be available on the "Webcasts &amp; Presentations" section of Lilly's investor website at http://investor.lilly.com/events.cfm. A replay will be available for approximately one week...
+
+...About Ixekizumab UNCOVER Phase III Trials
+The UNCOVER studies are double&#45;blind, multicenter, Phase III studies evaluating more than 3,800 patients with moderate&#45;to&#45;severe psoriasis in 18 countries. UNCOVER&#45;1 compared the safety and efficacy of different dosing regimens of ixekizumab with placebo after 12 weeks and 60 weeks of treatment...
+
+Question:
+...one would think if you secure approval globally [and] if you have very high prescribers of Stellara, conducting a head to head versus Stellara through a Phase 4 program would potentially be beneficial? ...your thoughts around conducting a Phase 4 trial like that?
+
+Answer:
+...The head to head [versus] Stellara ... we recognize the value of having more information about ixekizumab's efficacy and safety comparing to other competitors. Based on indirect comparisons... the data looks very compelling... However, we do not typically disclose details of our future clinical development program...
+
+http://lilly.mediaroom.com/index.php?s=9042&amp;item=137440</Note>
+<Note>August 21, 2015 [Translated from Japanese]
+
+Humanized Anti&#45;Human Il&#45;17a Monoclonal Antibody "Ixekizumab" Domestic Manufacturing And Marketing Approval Application
+
+Eli Lilly Japan Co., Ltd...is, recently, it is a humanized anti&#45;human IL&#45;17A monoclonal antibodies in development, ixekizumab ( gene recombination) preparation (hereinafter, severe psoriasis vulgaris from moderate for ixekizumab), pustular psoriasis, psoriatic erythroderma, that was carried out manufacturing and marketing approval in Japan as indications the joint disease psoriasis Since we announced, we will inform you.
+
+This approval was made on the basis of international joint studies of psoriasis patients (UNCOVER&#45;1, UNCOVER&#45;2, UNCOVER&#45;3) and domestic clinical trials (UNCOVER&#45;J) result...
+
+https://www.lilly.co.jp/emergency/2015/news_2015_014.aspx</Note>
+<Note>October 22, 2015
+
+Eli lilly &gt; Q3 2015 Financial Review presentation
+
+Slide No: 4
+Regulatory: Submitted ixekizumab in japan for moderate&#45;to&#45;severe plaque psoriasis, pustular psoriasis, erythrodermic psoriasis and psoriatic arthritis
+
+Slide No: 16
+Lilly NME Pipeline October 16, 2015
+Ixekizumab &gt; Psoriasis &gt; Reg Review
+
+Slide No: 17
+Key Events in 2015
+Potential Phase 3 data internal readouts:
+Ixekizumab for psoriatic arthritis
+
+Potential Phase 3 data external disclosures:
+Ixekizumab for psoriasis
+Ixekizumab for psoriatic arthritis
+
+Potential regulatory submissions:
+Ixekizumab for psoriasis (US/EU)
+Ixekizumab for psoriasis and psoriatic arthritis (Japan)
+
+http://files.shareholder.com/downloads/LLY/834589106x0x855702/09A0D7A3&#45;E748&#45;4E44&#45;95CF&#45;C83D591BEA86/Q3_2015_Slides.pdf
+
+</Note>
+<Note>February 26, 2016
+
+Lilly Receives Positive CHMP Opinion for Ixekizumab for the Treatment of Moderate&#45;to&#45;Severe Plaque Psoriasis
+
+INDIANAPOLIS, Feb. 26, 2016 /PRNewswire/ &#45;&#45; Eli Lilly and Company announced today that the European Medicines Agency's (EMA) Committee for Medicinal Products for Human Use (CHMP) has issued a positive opinion for ixekizumab for the treatment of moderate&#45;to&#45;severe plaque psoriasis in adults in the European Union (EU) who are candidates for systemic therapy...
+
+...This is the first regulatory step toward approval for ixekizumab in Europe. The CHMP positive opinion is now referred for final action to the European Commission, which grants approval in the EU...
+
+...The CHMP positive opinion for ixekizumab was based on findings from the largest Phase 3 trial program in moderate&#45;to&#45;severe plaque psoriasis evaluated by regulatory authorities to date. This clinical program included three double&#45;blind, multicenter, Phase 3 studies &#45; UNCOVER&#45;1, UNCOVER&#45;2 and UNCOVER&#45;3 &#45; which demonstrated the safety and efficacy of ixekizumab in more than 3,800 patients in 21 countries with moderate&#45;to&#45;severe plaque psoriasis. All three studies evaluated the safety and efficacy of ixekizumab (80 mg every two weeks, following a 160&#45;mg starting dose) compared to placebo after 12 weeks...
+
+...In these studies, the co&#45;primary efficacy endpoints at 12 weeks were Psoriasis Area Severity Index (PASI) 75 and static Physician's Global Assessment (sPGA) 0 or 1.1 PASI measures the extent and severity of psoriasis by assessing average redness, thickness and scaliness of skin lesions (each graded on a zero to four scale), weighted by the body surface area of involved skin, while the sPGA is the physician's assessment of severity of a patient's psoriasis lesions overall at a specific point in time and is a required measure the FDA uses to evaluate effectiveness...
+
+...About the UNCOVER Studies
+
+The UNCOVER&#45;1, UNCOVER&#45;2 and UNCOVER&#45;3 studies are double&#45;blind, multicenter, Phase 3 studies evaluating more than 3,800 patients with moderate&#45;to&#45;severe psoriasis in 21 countries. All three studies evaluated the safety and efficacy of different dosing regimens of ixekizumab (80 mg every two or four weeks, following a 160&#45;mg starting dose) compared to placebo after 12 weeks...In UNCOVER&#45;1, UNCOVER&#45;2 and UNCOVER&#45;3, safety and efficacy was further evaluated through 60 weeks...
+
+http://files.shareholder.com/downloads/LLY/1602599974x0x877883/4A304081&#45;36F5&#45;4132&#45;BD81&#45;C7FD63D7BA64/LLY_News_2016_2_26_Product.pdf</Note>
+<Note>March 4, 2016 [Pooled Analysis]
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract: 3031
+
+Kim A Papp, Craig Leonardi, Andrew Blauvelt, Neil J Korman, Mamitaro Ohtsuki, Kristian Reich, Lotus Mallbris, Susan Ball, Janelle Erickson, Lu Zhang, Christopher E M Griffiths
+
+Efficacy of Ixekizumab Therapy: Integrated Analysis of 3 Double&#45;Blind, Controlled Trials
+
+Results: The percentage of patients meeting response criteria at Week 12 for the sPGA were: sPGA (0,1): PBO 3.9%, ETN 38.9%, IXE Q4W 75.0%, IXE Q2W 81.8%; sPGA (0): PBO 0.1%, ETN 7.3%, IXE Q4W 34.3%, IXE Q2W 39.5%. The percentage of patients achieving the PASI 75, PASI 90, and PASI 100 response criteria at Week 12 were: PASI 75: PBO 4.4%, ETN 47.7%, IXE Q4W 81.6%, IXE Q2W 88.7%; PASI 90: PBO 1.1%, ETN 22.3%, IXE Q4W 63.3%, IXE Q2W 69.9%; PASI 100: PBO 0.1%, ETN 6.4%, IXE Q4W 33.2%, IXE Q2W 37.6%. Both IXE groups were statistically superior to PBO (p&lt;0.001 using data from 3 studies) and ETN (p&lt;0.001 using data from 2 studies) for all comparisons. The difference in response rates for sPGA (0,1) and PASI 75 between patients treated with either IXE dosing regimen compared with PBO was significant as early as Week 1. The safety profile in the integrated analyses was comparable to those of the previously reported individual studies.
+
+
+Conclusions: Using the response rates for the sPGA and PASI co&#45;primary measures, we conclude the integrated analyses confirm the rapid onset of action and superiority of both IXE dosing regimens compared to PBO and to ETN.
+
+https://www.aad.org/eposters/view/Abstract.aspx?id=3031
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=3031&amp;type=sub
+
+
+
+
+
+</Note>
+<Note>March 4, 2016 [Pooled Analysis]
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 3413
+
+Kim A. Papp, Robert Bissonnette, Mamitaro Ohtsuki, Laura Korb Ferris, Carle Paul, Mark Lebwohl, Craig L. Leonardi, Chadi G. Saifan, Daniel K Braun, Fangyi Zhao, Stefan Wilhelm, Lotus Mallbris, Hitoe Torisu&#45;Itakura, and Kristian Reich
+
+Ixekizumab Shows No Association with Major Adverse Cardiac Events (MACE) in Patients with Moderate&#45;to&#45;Severe Psoriasis: An Integrated Safety Analysis of Clinical Trials
+
+Results:
+At 12 wks, 0 IXE Q2W pts and 2 IXE Q4W pts (IR=0.8) experienced a MACE vs. 1 PBO pt (IR=0.6) and 1 ETN pt (IR=0.6); all p&#45;values were non&#45;significant (NS). In the re&#45;randomized population, 0 IXE Q12W pts and 3 IXE Q4W pts (IR=0.9) experienced a MACE vs. 1 PBO/IXE withdrawal pt (IR=0.5); all p&#45;values were NS. Of pts exposed to IXE across the 5 Phase 3 trials, 38 pts experienced a MACE while on IXE, and the exposure&#45;adjusted IR of MACE was 0.63 (CI 0.46, 0.87). At baseline, 78.9% of pts with &gt; or = 1 MACE had &gt; or = 2 preexisting cardiovascular risk factors (male &gt; or = 45 or female &gt; or = 55 yrs, diabetes mellitus, hypertension, fasting high&#45;density lipoprotein cholesterol &lt; 40 mg/dL, and currently smoking) vs. 42.1% of pts who never had a MACE; 50.0% of pts with &gt; or = 1 MACE were obese (&gt; or = 30 and &lt; 40 kg/m2) vs. 34.7% of pts who never had a MACE.
+
+Conclusion:
+No statistically significant difference between treatment groups in exposure&#45;adjusted IR of MACE was observed in integrated data from the induction and maintenance periods of these 3 RCTs. These results and the exposure&#45;adjusted IR observed in all patients exposed to IXE across 5 Phase 3 trials suggest that IXE treatment is not associated with increased risk of MACE.
+
+https://www.aad.org/eposters/view/Abstract.aspx?id=3413
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=3413&amp;type=sub
+</Note>
+<Note>March 10, 2016 [Pooled analysis]
+
+Presented at the 117th Annual Meeting of the American Society for Clinical Pharmacology and Therapeutics (ASCPT), March 8&#45;12, 2016, San Diego, CA
+Abstract #: PI&#45;037
+
+E. Chigutsa, N. V. de Mendizabal, L. Chua, S. L. Choi, L. Hu, S. Friedrich, K. Jackson;
+
+A Model&#45;Based Comparison Of Response To Ixekizumab In Patients With Moderate To Severe Plaque Psoriasis After 12 And 60 Weeks Of Treatment
+
+Results:
+The model&#45;predicted week 12 response rates captured well the observed response rates and for Q2W and Q4W dosing, were 86% and 84% (sPGA 0/1), 42% and 37% (sPGA 0), 93% and 90% (PASI75), 74% and 68% (PASI90); and 39% and 34% (PASI100), respectively. Predicted response rates remained high after 60 weeks of treatment with Q4W dosing.
+
+Conclusion:
+Logistic regression models were developed that described well the relationship between ixekizumab exposure and sPGA and PASI efficacy endpoints, and identified significant patient factors. High levels of psoriatic disease clearance were predicted after 12 weeks of treatment with 80 mg Q2W or Q4W dosing and were maintained through 60 weeks with a dose of 80 mg Q4W.
+
+https://guidebook.com/guide/54032/poi/4541925/</Note>
+<Note>March 4, 2016 [Pooled Analysis]
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract: 3101
+
+Bruce Strober, Kim A Papp, Craig Leonardi, Robert Bissonette, Laura Ferris, Ulrich Mrowietz, Carle Paul, Mark Lebwohl, Daniel K. Braun, Nayan Acharya, Wen Xu, and Kristian Reich;
+
+June 23, 2016
+
+Presented at the 91st Canadian Dermatology Association (CDA) Annual Conference, June 22&#45;25, 2016, Saskatoon, Saskatchewan, Canada
+Abstract No. P9.07
+
+Integrated Safety Of Ixekizumab In Patients With Moderate To Severe Psoriasis: Results From A Pooled Analysis Of 7 Clinical Trials
+
+Results:
+During the induction period, the frequency of any TEAE was higher in Total IXE (58.6%), IXE Q2W (58.4%), IXE Q4W (58.8%), and ETN (54.0%) compared to PBO (46.8%). Most TEAEs were mild or moderate. The frequency of AEs reported as severe, SAEs, and discontinuations due to AEs did not differ among treatment groups. During the maintenance period, the exposure&#45;adjusted incidence rate (IR &#8212; per hundred patient years) of TEAEs was lower for IXE Q4W patients than for the PBO/withdrawal group (IR: PBO, 123.8; IXE Q12W, 106.2; IXE Q4W, 95.6), with no significant difference observed between the IXE Q12W and IXE Q4W groups. The IR of TEAEs was lower during the maintenance phase than during the induction phase among patients who received continued dosing on IXE Q4W (99.3 and 256.8, respectively). Among all patients exposed to IXE, the exposure adjusted IR of TEAEs was 54.4. Most TEAEs were mild or moderate.
+
+Conclusions:
+IXE had a safety profile that was similar to ETN during the induction period. The overall incidence of AEs in the Q2W and Q4W dosing regimens were similar. The IR for AEs decreased over time with continued IXE treatment.
+
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=3101&amp;type=sub
+https://www.aad.org/eposters/view/Abstract.aspx?id=3101
+
+https://eventmobi.com/api/events/11049/documents/download/397f0e23&#45;07dc&#45;4cc3&#45;91d9&#45;d8782c71dcd7.pdf/as/P9.07%20Integrated%20safety%20of%20ixekizumab%20in%20patients%20with%20moderate%20to%20severe%20psoriasis%20Results%20from%20a%20pooled%20analysis%20of%207%20clinical%20trials,%20Bissonnette.pdf</Note>
+<Note>March 4, 2016 (Pooled Analysis)
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 3232
+
+Andrew Blauvelt, Richard G. Langley, Craig Leonardi, Kenneth Gordon, Thomas Luger, Mamitaro Ohtsuki, Brian J. Nickoloff, Lisa F. Kerr, Gregory S. Cameron, Lotus Mallbris, Talia Muram, Robert Konrad, Wendy J. Komocsar, and Kristian Reich
+
+Ixekizumab, a Novel Anti&#8212;IL&#45;17A Antibody, Exhibits Low Immunogenicity During LongTerm Treatment in Patients With Psoriasis
+
+Results: 
+Serum levels of TE&#45;ADA were divided into negative, low, moderate, and high titer groups. At 12 wks, the vast majority of pts were TE&#45;ADA negative (IXE Q2W: 91.0%; IXE Q4W: 86.6%). Additionally, among IXE Q2W and Q4W pts, respectively, 5.7% and 8.0% had low, 1.6% and 3.0% had moderate, and 1.7% and 2.4% had high TE&#45;ADA titers at 12 wks. When evaluating efficacy during the induction period in pts receiving IXE Q2W, only pts with high TE&#45;ADA titers had reduced responses in PASI compared to TE&#45;ADA negative pts, with 12&#45;wk mean percent improvement from baseline PASI (last observation carried forward [LOCF]) of 91.7%, 85.7%, 88.7%, and 53.5% for pts with negative, low, moderate, and high TE&#45;ADA titer, respectively. The 12&#45;wk PASI 75 response rates (non&#45;responder imputation) were 90.7%, 84.8%, 83.3%, and 36.8% for IXE Q2W pts with negative, low, moderate, and high TE&#45;ADA titers, respectively. At 60 wks for IXE Q2W pts re&#45;randomized to IXE Q4W during the maintenance period, 84.8% were TE&#45;ADA negative, 14.2% had low, 0.9% had moderate, and none had high TE&#45;ADA titer. Efficacy at 60 wks was similar between all TE&#45;ADA groups with mean percent improvement from baseline PASI (LOCF) of 94.3% for negative, 97.0% for low, and 100% for moderate TE&#45;ADA titer pts. IXE Q4W data was similar. No safety findings were correlated to ADA. 
+
+Conclusions: 
+TE&#45;ADA levels against ixekizumab did not affect maintenance of response up to 60 wks among initial responders to ixekizumab. There was no correlation between TE&#45;ADA and safety findings.
+
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=3232&amp;type=sub
+https://www.aad.org/eposters/view/Abstract.aspx?id=3232</Note>
+<Note>March 22, 2016 
+
+Lilly's Taltz (ixekizumab) Receives U.S. FDA Approval for the Treatment of Moderate&#45;to&#45;Severe Plaque Psoriasis
+
+&#45;  In pivotal studies, most patients treated with Taltz achieved significant skin clearance (PASI 75, sPGA 0 or 1) with many achieving virtually clear (PASI 90) or completely clear (PASI 100, sPGA 0) skin at week 12
+
+INDIANAPOLIS, March 22, 2016 /PRNewswire/ &#45;&#45; Eli Lilly and Company announced today that the U.S. Food and Drug Administration (FDA) has approved Taltz (ixekizumab) injection 80 mg/mL for the treatment of moderate&#45;to&#45;severe plaque psoriasis in adult patients who are candidates for systemic therapy or phototherapy...
+
+...The FDA approval of Taltz was based on findings from the largest Phase 3 trial program approved to date &#45; more than 3,800 patients with moderate&#45;to&#45;severe plaque psoriasis from 21 countries. This number includes patients who began the trial on Taltz or placebo, or active comparator (U.S.&#45;approved etanercept). This clinical program included three double&#45;blind, multicenter, Phase 3 studies &#45; UNCOVER&#45;1, UNCOVER&#45;2 and UNCOVER&#45;3 &#45; which demonstrated the safety and efficacy of Taltz in patients with moderate&#45;to&#45;severe plaque psoriasis. All three studies evaluated the safety and efficacy of Taltz (80 mg every two weeks, following a 160&#45;mg starting dose) compared to placebo after 12 weeks...UNCOVER&#45;1 and UNCOVER&#45;2 also evaluated response rates with Taltz during the maintenance period through 60 weeks.
+
+In these studies, the co&#45;primary efficacy endpoints at 12 weeks were a 75 percent improvement in the composite Psoriasis Area Severity Index (PASI) score and static Physician's Global Assessment (sPGA) 0 or 1 and at least a 2&#45;point improvement from baseline. PASI measures the extent and severity of psoriasis by assessing average redness, thickness and scaliness of skin lesions (each graded on a zero to four scale), weighted by the body surface area of involved skin, while the sPGA is the physician's assessment of severity of a patient's psoriasis lesions overall at a specific point in time and is a required measure the FDA uses to evaluate effectiveness.6
+
+In all three studies, at 12 weeks, 87 to 90 percent of patients treated with Taltz saw a significant improvement of their psoriasis plaques (PASI 75).  In addition, 81 to 83 percent of patients treated with Taltz achieved sPGA 0 or 1. The majority of patients treated with Taltz, 68 to 71 percent, achieved virtually clear skin (PASI 90) and 35 to 42 percent of patients saw complete resolution of their psoriasis plaques (PASI 100, sPGA 0). Among those patients treated with placebo, 7 percent or fewer achieved PASI 75, 7 percent or fewer achieved sPGA 0 or 1, 3 percent or fewer achieved PASI 90 and 1 percent or fewer achieved PASI 100 and sPGA 0.
+
+In UNCOVER&#45;1 and UNCOVER&#45;2, of patients who responded to Taltz (sPGA 0 or 1 and at least a 2&#45;point improvement from baseline) at 12 weeks, 75 percent consistently maintained that response at the 60&#45;week endpoint.
+
+Taltz was also statistically superior to U.S.&#45;approved etanercept at all skin clearance levels, including PASI 75 and sPGA 0 or 1 at 12 weeks...
+
+...Information regarding the safety of Taltz is drawn from a database of 4,204 patients with moderate&#45;to&#45;severe plaque psoriasis who volunteered in both controlled and uncontrolled clinical trials.
+
+Taltz may increase the risk of infection. Patients treated with Taltz had a higher rate of infections than patients treated with placebo (27 percent vs. 23 percent). Upper respiratory tract infections, oral candidiasis, conjunctivitis and tinea infections occurred more frequently in patients treated with Taltz compared to placebo. Serious infections have occurred. Instruct patients to seek medical advice if signs or symptoms of clinically important chronic or acute infection occur. If a serious infection develops, discontinue Taltz until the infection resolves...
+
+..."Complete clearance of skin plaques is an important treatment goal for psoriasis," said Craig Leonardi, M.D., lead study author and clinical professor of dermatology at St. Louis University School of Medicine...
+
+...Taltz will be available in the U.S. beginning in the second quarter of 2016...
+
+http://lilly.mediaroom.com/index.php?s=9042&amp;item=137527</Note>
+<Note>March 4, 2016 (Pooled Analysis)
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 3813
+
+Emmanuel Chigutsa, Nieves Velez de Mendizabal, Laiyi Chua, Siak Leng Choi, Leijun Hu, Stuart Friedrich, and Kimberley Jackson,
+
+An Exposure Response Model to describe the relationship between ixekizumab concentrations and the static Physicians&apos; Global Assessment (sPGA) score and the Psoriasis Area and Severity
+Index (PASI) in patients with moderate to severe plaque psoriasis.
+
+Results:
+The relationship between ixekizumab Ctrough and sPGA and PASI scores was described well using logistic regression models. Median Ctrough levels were 9.09 &#181;g/mL for Q2W and 2.95 &#181;g/mL for Q4W dosing. The model predicted response rate for sPGA(0,1) was 86% for Q2W and 84% for Q4W dosing and sPGA(0) responses were 42 and 37% for the Q2W and Q4W regimens, respectively. The predicted responses compared well with observed response rates. 
+
+The relationship between ixekizumab Ctrough and PASI endpoints were also well described and the model was able to predict the observed response rate well. For PASI75, the model predicted response rate was 93% and 90% for Q2W and Q4W, respectively. Similarly, for PASI90, the model predicted response rates were 74% and 68% and for PASI100 the model predicted response rates were 39% and 34% for the Q2W and Q4W regimens, respectively. 
+
+Conclusions:
+The relationship between ixekizumab Ctrough levels and sPGA and PASI scores was described well using exposure response modeling. Based on exposure data, the model predicted high response rates for both dosing regimens and rates were consistent with the observed clinical data. Higher exposures in patients on the 80&#45;mg Q2W dosing regimen resulted in consistently greater predicted response rates (increases of 2% to 6%) compared with the 80 mg Q4W dosing regimen across sPGA and PASI endpoints.
+
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=3813&amp;type=sub
+https://www.aad.org/eposters/view/Abstract.aspx?id=3813
+</Note>
+<Note>March 4, 2016 (Pooled analysis)
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 2859
+
+Christopher E.M. Griffiths, Maurizio Fava, Andrew Miller, James Russell, Susan Ball, Wen Xu, Nayan Acharya, and Mark Rapaport
+
+Impact Of Ixekizumab Treatment On Depressive Symptoms: An Integrated Analysis Of Three Phase III Clinical Studies In Patients With Moderate&#45;To&#45;Severe Psoriasis
+
+Results: 
+In this population with depressive symptoms, QIDS&#45;SR16 median (range) total score at baseline was 14.0 (11&#45;24) with no significant differences across groups. At Week 12, patients treated with ixekizumab had a significant and clinically meaningful decrease in depressive symptoms versus placebo (QIDS&#45;SR16 total score mean change: IXE Q4W, &#45;6.5&#177;4.5; IXE Q2W, &#45;6.9&#177;5.2; and PBO, &#45;3.6&#177;4.6; p&lt; 0.001, both dose comparisons). The percentage of patients who met response criteria for depressive symptoms (QIDS &#45;SR16 total improvement &gt; or =50% from baseline) was 49.1% NRI with IXE Q4W and 59.8% NRI with IXE Q2W vs. 27.1% NRI with placebo (p&lt; or =0.001, both dose comparisons). The rate of remission of depressive symptoms (QIDS&#45;SR16 score &lt; or = 5) at Week 12 was significantly greater for IXE Q4W (33.6% NRI) and IXE Q2W (45.2% NRI) vs. 17.8% NRI for PBO (p&lt; .05, both dose comparisons). The Pearson correlation (r) between improvement in psoriasis (PASI) and depression (QID&#45;SR16) from baseline to Week 12 was &#45;0.15.
+
+Conclusions: 
+In an integrated analysis of patients with plaque psoriasis and depressive symptoms at baseline, ixekizumab was superior to placebo, achieving a clinically meaningful response in &#126;50% and remission of depressive symptoms in 39.1% at Week 12. 
+
+https://www.aad.org/eposters/view/Abstract.aspx?id=2859
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=2859&amp;type=sub</Note>
+<Note>March 4, 2016 (Pooled Analysis)
+
+Presented at the 74th Annual Meeting of American Academy of Dermatology, March 4&#45;8, 2016, Washington, D.C.
+Abstract #: 3417
+
+Richard G. Langley, Ricardo Romiti, Craig L. Leonardi, Kristian Reich, Richard Warren, Mamitaro Ohtsuki, Stefan Wilhelm, Wen Xu, Kathleen C. Solotkin, Dana S. Hardin, and Herv&#233; Bachelez
+
+Evaluation of Inflammatory Bowel Disease in patients with plaque psoriasis studied in Phase 3 trials of Ixekizumab (UNCOVER trials): adjudicated data from the induction period.
+
+Results: 
+Of the 3858 patients enrolled in the trials, 2 patients were reported to have suspected CD and 2 were reported as suspected UC during the induction period. Adjudicators classified 1 CD case reported during induction as &#147;probable.&#148; This event occurred at day 64 and the patient received IXE Q2W. The other suspected CD was classified as &#147;possible.&#148; This event occurred at day 88 and the patient received IXE Q4W. Both of the suspected UC cases were adjudicated as &#147;definitive.&#148; Importantly, both of these patients had a prior history of UC and both received IXE Q2W.
+ 
+Conclusion: 
+Of the 3858 total patients enrolled in the UNCOVER program the incidence of CD and UC was uncommon during the first 12 weeks of treatment with IXE. Additional analysis and adjudication of longer term data is currently ongoing and are required to further understand the relationship between IBD and IXE treatment. 
+
+https://www.aad.org/eposters/view/Abstract.aspx?id=3417
+
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=3417&amp;type=sub
+</Note>
+<Note>March 07, 2016
+
+Studies Show Ixekizumab Improved Work Productivity for Patients with Moderate&#45;to&#45;Severe Plaque Psoriasis: Results Published in JAMA Dermatology
+
+&#45; Results from the UNCOVER&#45;1 study will also be presented at the American Academy of Dermatology (AAD) Annual Meeting, March 4&#45;8, 2016, in Washington, D.C...
+
+...INDIANAPOLIS, March 7, 2016 /PRNewswire/ &#45; Eli Lilly and Company announced today that JAMA Dermatology has published detailed results from three pivotal Phase 3 trials that evaluated the effect of ixekizumab on work productivity in patients with moderate&#45;to&#45;severe plaque psoriasis. Specific results from the UNCOVER&#45;1 study were also presented Monday during the American Academy of Dermatology (AAD) Annual Meeting in Washington, D.C.
+
+In an analysis of the UNCOVER&#45;1, UNCOVER&#45;2 and UNCOVER&#45;3 studies, the effect of ixekizumab on work productivity was evaluated by the change from baseline as measured by Work Productivity and Activity Impairment&#45;Psoriasis (WPAI&#45;PSO) scores at 12 weeks...
+
+In all three studies, patients treated with ixekizumab reported improved work productivity compared to patients treated with placebo. In UNCOVER&#45;1, improvements in work productivity were also sustained up to 60 weeks in those who demonstrated initial clinical response to ixekizumab at 12 weeks...
+
+In all three studies, patients treated with ixekizumab every two weeks demonstrated the following results at 12 weeks:
+
+&#45; In UNCOVER&#45;1, patients treated with ixekizumab showed significantly greater improvement compared to placebo in all WPAI&#45;PSO scores: absenteeism, presenteeism, work productivity loss and activity impairment (p&lt;0.001 for all comparison scores)...
+
+...Improvements in WPAI scores were also sustained through 60 weeks among patients who achieved clinical response with ixekizumab at 12 weeks. In UNCOVER&#45;1 and UNCOVER&#45;2, significant improvements from baseline were sustained through 60 weeks among patients treated with ixekizumab for presenteeism, work productivity loss and activity impairment scores.
+
+The majority of treatment&#45;emergent adverse events were mild or moderate. The most frequently reported adverse drug reactions were injection site reactions and upper respiratory tract infections (most frequently nasopharyngitis) and generally did not lead to treatment discontinuations.
+
+In these studies, patients were randomized to receive different dosing regimens of ixekizumab (80 mg every two weeks or four weeks, following a 160&#45;mg starting dose), or placebo, for 12 weeks...
+
+http://lilly.mediaroom.com/index.php?s=9042&amp;item=137525</Note>
+<Note>March 07, 2016 [Pooled analysis]
+
+JAMA Dermatol. Published online March 07, 2016. [Epub ahead of print]
+
+April W. Armstrong, MD, MPH; Charles W. Lynde, MD, FRCP; Sandy R. McBride, MBBS, FRCP, MD; Mona St&#229;hle, MD, PhD; Emily Edson&#45;Heredia, MPH; Baojin Zhu, PhD; David Amato, DO; Enkeleida Nika&#239;, MSc, EMM&amp;A; Fan Emily Yang, PhD; Kenneth B. Gordon, MD;
+
+Effect of Ixekizumab Treatment on Work Productivity for Patients With Moderate&#45;to&#45;Severe Plaque Psoriasis: Analysis of Results From 3 Randomized Phase 3 Clinical Trials
+
+Results:
+Across trials, 5101 patients consented; 3866 were randomized (mean [SD] age, UNCOVER&#45;1, 45.7 [12.9] y, 68.1% male; UNCOVER&#45;2: 45.0 [13.0] y, 67.1% male; UNCOVER&#45;3: 45.8 [13.1] y, 68.2% male). At week 12 in UNCOVER&#45;1, the ixekizumab Q4W and ixekizumab Q2W groups showed significantly greater improvements in WPAI&#45;PSO scores (least squares mean change from baseline [SE]) relative to placebo: absenteeism (&#8212;3.5 [0.87], P?&lt;?.001; &#8212;2.6 [0.84], P?=?.003, respectively, vs 0.2 [0.88]), presenteeism (&#8212;18.8 [1.28], P?&lt;?.001; &#8212;18.3 [1.24], P?&lt;?.001, vs 0.5 [1.30]), work productivity loss (&#8212;20.6 [1.38], P?&lt;?.001; &#8212;19.8 [1.33], P?&lt;?.001, vs &#8212;0.8 [1.40]), and activity impairment (&#8212;24.5 [1.18], P?&lt;?.001; &#8212;25.2 [1.15], P?&lt;?.001, vs 0.8 [1.18]). Similar results were obtained for UNCOVER&#45;2 and UNCOVER&#45;3, with the exception of absenteeism with ixekizumab Q4W in UNCOVER&#45;2. Additionally, ixekizumab&#45;treated patients showed significantly greater improvements in WPAI&#45;PSO scores vs etanercept&#45;treated patients: UNCOVER&#45;2: presenteeism, work productivity loss, activity impairment (P?&lt;?.001 both doses), UNCOVER&#45;3: activity impairment (ie, regular activities outside of work) (ixekizumab Q2W; P?=?.009). Improvements in WPAI&#45;PSO scores at week 12 were sustained to at least week 60.
+
+Conclusions and Relevance:
+Ixekizumab&#45;treated patients reported short&#45; and long&#45;term improvements in work productivity, which could lead to reduced productivity&#45;related cost burden in patients with psoriasis.
+
+http://www.ncbi.nlm.nih.gov/pubmed/?term=26953848
+http://archderm.jamanetwork.com/article.aspx?articleid=2498595&amp;resultClick=3</Note>
+<Note>April 20, 2016 
+
+CT.gov Results
+Results First Received: April 20, 2016 
+Last updated: April 20, 2016 
+
+Participant Flow: 
+
+Recruitment Details: 
+No text entered. 
+
+Pre&#45;Assignment Details: 
+Participants who received Ixekizumab (ixe) and classified as responder (Resp, sPGA 0/1) in Induction (IND) were re&#45;randomized to receive 80 mg ixe Q4W, Q12W or placebo (PBO) in Maintenance (MAIN) [Primary Population (Pop)]. Non&#45;responders (Non&#45;Resp, sPGA &gt;1) in IND received 80 mg ixe Q4W, PBO Resp received PBO in MAIN (Secondary Pop). 
+
+Region of Enrollment   
+[units: participants] 
+
+Canada : 212  
+Romania: 13  
+Hungary: 66  
+United States: 461  
+Japan: 33  
+Denmark: 16  
+Poland: 139  
+Italy: 6  
+United Kingdom: 21  
+Australia: 42  
+Germany: 287
+
+[See tabular data at source URL]  
+
+https://clinicaltrials.gov/ct2/show/results/NCT01474512</Note>
+<Note>Disposition of Patients: 
+
+Participant Flow for 2 periods 
+
+Period 1:   Induction Period: 
+STARTED: 431 
+COMPLETED: 431 
+NOT COMPLETED: 407 
+
+Placebo&#45; Induction Period: 
+STARTED: 432
+COMPLETED: 432
+NOT COMPLETED: 408  
+
+Ixe Q4W &#45; Induction Period: 
+STARTED: 433 
+COMPLETED: 433 
+NOT COMPLETED: 415 
+
+Ixe Q2W &#45; Induction Period:  
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Ixe/Placebo&#45; Maintenance Period Primary Pop: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Ixe/Ixe Q12W &#45; Maintenance Period Primary Pop: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Ixe/Ixe Q4W &#45; Maintenance Period Primary Pop: 	  
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Placebo Resp/Placebo &#45; Maintenance Period Secondary Pop: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Placebo Non&#45;Resp/Ixe Q4W &#45; Maintenance Period Secondary Pop: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Ixe Q4W Non&#45;Resp/Ixe Q4W&#45; Maintenance Period Secondary Pop: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Q2W Non&#45;Resp/Q4W &#45; Maintenance Period Secondary Pop: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Period 2:   Maintenance Period
+
+Placebo&#45; Induction Period: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Ixe Q4W &#45; Induction Period: 
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Ixe Q2W &#45; Induction Period:  
+STARTED: 0
+COMPLETED: 0
+NOT COMPLETED: 0
+
+Ixe/Placebo&#45; Maintenance Period Primary Pop: 
+STARTED: 226
+COMPLETED: 24
+NOT COMPLETED: 202
+
+Ixe/Ixe Q12W &#45; Maintenance Period Primary Pop: 
+STARTED: 227
+COMPLETED: 108
+NOT COMPLETED: 119
+
+Ixe/Ixe Q4W &#45; Maintenance Period Primary Pop: 	  
+STARTED: 229
+COMPLETED: 177
+NOT COMPLETED: 52
+
+Placebo Resp/Placebo &#45; Maintenance Period Secondary Pop: 
+STARTED: 16
+COMPLETED: 6
+NOT COMPLETED: 10
+
+Placebo Non&#45;Resp/Ixe Q4W &#45; Maintenance Period Secondary Pop: 
+STARTED: 391
+COMPLETED: 350
+NOT COMPLETED: 41
+
+Ixe Q4W Non&#45;Resp/Ixe Q4W&#45; Maintenance Period Secondary Pop: 
+STARTED: 78
+COMPLETED: 62
+NOT COMPLETED: 16
+
+Q2W Non&#45;Resp/Q4W &#45; Maintenance Period Secondary Pop: 
+STARTED: 62
+COMPLETED: 44
+NOT COMPLETED: 18
+
+[See tabular data at source URL] 
+
+https://clinicaltrials.gov/ct2/show/results/NCT01474512</Note>
+<Note>Locations/Contacts(Last updated: April 20, 2016) 
+
+Locations
+United States, Alabama
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Birmingham, Alabama, United States, 35233
+United States, California
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Anaheim, California, United States, 92801
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Bakersfield, California, United States, 93309
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Fremont, California, United States, 94538
+United States, Connecticut
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+New Haven, Connecticut, United States, 06511
+United States, Florida
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Jacksonville, Florida, United States, 32216
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Miami, Florida, United States, 33175
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Miramar, Florida, United States, 33027
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Ocala, Florida, United States, 34471
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Ormond Beach, Florida, United States, 32174
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Pineallas Park, Florida, United States, 33781
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Tampa, Florida, United States, 33624
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+West Palm Beach, Florida, United States, 33409
+United States, Georgia
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Atlanta, Georgia, United States, 30327
+United States, Illinois
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Arlington Heights, Illinois, United States, 60005
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Chicago, Illinois, United States, 60611
+United States, Indiana
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Evansville, Indiana, United States, 47714
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Indianapolis, Indiana, United States, 46256
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+South Bend, Indiana, United States, 46617
+United States, Kentucky
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Owensboro, Kentucky, United States, 42303
+United States, Louisiana
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Baton Rouge, Louisiana, United States, 70809
+United States, Michigan
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Troy, Michigan, United States, 48084
+United States, Missouri
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+St Louis, Missouri, United States, 63117
+United States, New York
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Bronx, New York, United States, 10467
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+New York, New York, United States, 10021
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Rochester, New York, United States, 14623
+United States, North Carolina
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Raleigh, North Carolina, United States, 27612
+United States, Ohio
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Cleveland, Ohio, United States, 44106
+United States, Oregon
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Portland, Oregon, United States, 97223
+United States, Rhode Island
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Johnston, Rhode Island, United States, 02919
+United States, Tennessee
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Knoxville, Tennessee, United States, 37922
+United States, Utah
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Salt Lake City, Utah, United States, 84132
+United States, Washington
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Bellingham, Washington, United States, 98225
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Seattle, Washington, United States, 98101
+Australia, New South Wales
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Kogarah, New South Wales, Australia, 2217
+Australia, Queensland
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Benowa, Queensland, Australia, 4217
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Woolloogabba, Queensland, Australia, 4120
+Australia, South Australia
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Adelaide, South Australia, Australia, 5000
+Australia, Victoria
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Carlton, Victoria, Australia, 3053
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Parkville, Victoria, Australia, 3050
+Australia, Western Australia
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Fremantle, Western Australia, Australia, 6160
+Canada, British Columbia
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Surrey, British Columbia, Canada, V3R 6A7
+Canada, Manitoba
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Winnipeg, Manitoba, Canada, R3C 1R4
+Canada, New Brunswick
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Moncton, New Brunswick, Canada, E1C8X3
+Canada, Nova Scotia
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Halifax, Nova Scotia, Canada, B5H1Z4
+Canada, Ontario
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Ajax, Ontario, Canada, L1S7K8
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Barrie, Ontario, Canada, L4M6L2
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+London, Ontario, Canada, N6A 3H7
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Newmarket, Ontario, Canada, L3Y6P5
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Richmond Hill, Ontario, Canada, L4B 1A5
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Waterloo, Ontario, Canada, N2J 1C4
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Windsor, Ontario, Canada, N8W 1E6
+Canada, Quebec
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Montreal, Quebec, Canada, H3Z 2S6
+Denmark
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Aarhus, Denmark, 8000
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Hellerup, Denmark, 2900
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Kobenhavn, Denmark, 2400
+Germany
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Berlin, Germany, 13125
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Darmstadt, Germany, 64283
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Frankfurt, Germany, 60596
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Hamburg, Germany, 22143
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Hanau, Germany, 63450
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Hannover, Germany, 30449
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Kiel, Germany, 24105
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+K&#246;ln, Germany, 50937
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Mahlow, Germany, 39110
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Mainz, Germany, 55131
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+M&#252;nster, Germany, 48149
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Quedlinburg, Germany, 06484
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Wuppertal, Germany, 42275
+Hungary
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Budapest, Hungary, 1036
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Debrecen, Hungary, 4032
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Miskolc, Hungary, 3529
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Szeged, Hungary, H&#45;6720
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Szolnok, Hungary, H&#45;5000
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Szombathely, Hungary, H&#45;9700
+Italy
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Bergamo, Italy, 24128
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Bologna, Italy, 40100
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Padova, Italy, 35128
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Pisa, Italy, 56126
+Japan
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Aichi, Japan, 467&#45;0001
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Fukuoka, Japan, 814&#45;0180
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Kochi, Japan, 783&#45;8505
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Kyoto, Japan, 602&#45;0841
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Shiga, Japan, 520&#45;2192
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Shizuoka, Japan, 431&#45;3125
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Tochigi, Japan, 329&#45; 0498
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Tokyo, Japan, 169&#45;0073
+Poland
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Bialystok, Poland, 15&#45;017
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Elblag, Poland, 82&#45;300
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Krakow, Poland, 30&#45;510
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Lodz, Poland, 90&#45;265
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Lublin, Poland, 20&#45;081
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Szczecin, Poland, 70&#45;111
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Torun, Poland, 87&#45;100
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Warsaw, Poland, 04&#45;749
+Romania
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Baia Mare, Romania, 430193
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Bucharest, Romania, 21155
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Craiova, Romania, 200642
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Iasi, Romania, 700125
+United Kingdom
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Salford, Manchester, United Kingdom, M6 8HD
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Scunthorpe, North Lincolnshire, United Kingdom, DN15 7BH
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Dundee, Scotland, United Kingdom, DD1 9SY
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Nuneaton, Warwickshire, United Kingdom, CV10 7BL
+For additional information regarding investigative sites for this trial, contact 1&#45;877&#45;CTLILLY (1&#45;877&#45;285&#45;4559, 1&#45;317&#45;615&#45;4559) Mon &#45; Fri from 9 AM to 5 PM Eastern Time (UTC/GMT &#45; 5 hours, EST), or speak with your personal physician.	
+Lanarkshire, United Kingdom, ML6 0JS
+
+https://clinicaltrials.gov/ct2/show/study/NCT01474512</Note>
+<Note>May 24, 2016
+
+Eli Lilly &gt; R&amp;D Update for Investment Community
+
+Slide no# 21
+Potential for Unprecedented R&amp;D Output
+could achieve 20+ launches in 10 years
+Potential New Molecular Entity [NME] launches 2014&#45; 2023
+Taltz Launched
+
+Slide no# 42
+Immunology Pipeline
+New Molecules
+Taltz (TH 17 pathway)
+psoriasis
+Approval/Launch
+First approval March 22, 2016
+
+Slide no# 43
+Taltz (ixekizumab) update
+FDA approval received on March 22nd
+Commercial product was available to patients less than 4 weeks after approval
+
+European approval received on April 25th
+Launches in European markets to begin in July 2016 and continuing throughout 2016 and 2017
+
+Japan launches in both psoriasis and psoriatic arthritis are expected to occur 3rd quarter of 2016 assuming timely regulatory approval
+
+Slide no# 44
+Taltz (ixekizumab) 
+High affinity monoclonal antibody neutralizing IL&#45;17a
+
+Slide no# 45
+Psoriasis Phase 3 data
+Majority of patients achieve near complete/complete resolution at week 12
+Inegrated (Uncover &#45; 1, 2 and 3)
+
+Slide no# 46
+High % of sPGA 0,1 responders at week 12 maintain response at week 60
+Randomized Withdrawl Period, NRI [UNCOVER&#45; 1]
+
+Slide no# 49
+Psoriasis Phase 3 data
+Safety summary
+The incidence rates of TEAEs and SAEs were generally similar across treatment groups during the 12&#45;week induction period and remained stable or decreased over time 
+In two Phase 3 trials, overall rates of adverse events were comparable to etanercept 
+Candida infections were reported in 1.4% of patients treated with ixekizumab and in 0.5% of patients treated with placebo at week 12 
+Overall injection site reaction rates were comparable to etanercept, mostly mild to moderate in severity, and generally did not lead to discontinuation. The rate decreased with continued exposure after 12 weeks of treatment with ixekizumab
+Clinical data to date do not suggest an increased risk of suicide durng ixekizumab treatment 
+The incidence of IBD was uncommon among patients treated with ixekizumab
+
+Slide no# 52
+ixekizumab program summary
+Psoriasis
+U.S. launch achieved in April 2016
+Europe and Japan launches to follow shortly
+We firmly believe Talts may help patients with moderate &#45;to&#45; severe plaque psoriasis manage their disease
+
+[Results Tabular data is available in the below URL]
+https://investor.lilly.com/common/download/download.cfm?companyid=LLY&amp;fileid=893471&amp;filekey=8F87B4E7&#45;9E11&#45;4894&#45;BA1A&#45;446062715EED&amp;filename=LLY_RandD_Update_AM_Session.pdf</Note>
+<Note>June 21, 2016
+
+Health Canada's approval of Taltz (ixekizumab) Brings Targeted Therapy to Canadians Living with Moderate&#45;to&#45;Severe Plaque Psoriasis
+
+TORONTO, June 21, 2016 /CNW/ &#45; Eli Lilly Canada announced today that Health Canada has granted approval for Taltz (ixekizumab) for the treatment of moderate&#45;to&#45;severe plaque psoriasis in Canadian adults who are candidates for systemic therapy or phototherapy...
+
+... Health Canada's approval of Taltz is based on data from three double&#45;blind multicentre Phase III studies &#8212; UNCOVER&#45; 1, UNCOVER&#45; 2, and UNCOVER&#45; 3 &#8212; which evaluated more than 3,800 patients (over 650 Canadians 5) with moderate&#45;to&#45;severe plaque psoriasis 1 from 21 countries 6, involving more than 3 5 Canadian physicians. 5 This number includes patients who began the trials on Taltz, placebo, or active comparator (etanercept). 7...
+
+... The UNCOVER series of studies evaluated the safety and efficacy of Taltz (80 mg every two or four weeks, following a 160 mg starting dose) compared to placebo after 12 weeks...
+
+... UNCOVER&#45;1 and UNCOVER&#45;2 also evaluated the maintenance and durability of response with Taltz through 60 weeks.6 The research showed high levels of efficacy sustained through week 60.6
+
+The recommended dose for Taltz is 160 mg by subcutaneous injection (two 80 mg injections) at Week 0, followed by 80 mg (one injection) at Weeks 2, 4, 6, 8, 10 and 12, then 80 mg (one injection) every four weeks.1 Taltz is administered by subcutaneous injection, either via a prefilled auto&#45;injector or a prefilled syringe.1...
+
+References:
+1 Taltz (ixekizumab) Product Monograph. Toronto, ON: Eli Lilly Canada Inc., 2016.
+2  Canadian Guidelines for the Management of Plaque Psoriasis, 1st Edition, June 2009 http://www.dermatology.ca/wp&#45;content/uploads/2012/01/cdnpsoriasisguidelines.pdf. Accessed June 10, 2016.
+3 National Psoriasis Foundation, About Psoriasis https://www.psoriasis.org/about&#45;psoriasis/types/plaque. Accessed June 10, 2016.
+4 Canadian Association of Dermatology, What is Psoriasis? http://www.dermatology.ca/skin&#45;hair&#45;nails/skin/psoriasis/#!/skin&#45;hair&#45;nails/skin/psoriasis/what&#45;is&#45;psoriasis/. Accessed June 10, 2016.
+5  Summary of Clinical Efficacy Appendix Table APP 2.7.3.6.2
+6 Gordon, Kenneth B., M.D. et al. Phase 3 Trials of Ixekizumab in Moderate&#45;to&#45;Severe Plaque Psoriasis, New England Journal of Medicine, June 8, 2016 &#166;DOI: 10.1056/NEJMoa1512711, http://www.nejm.org/doi/full/10.1056/NEJMoa1512711#t=articleTop. Accessed June 9, 2016.
+
+http://www.newswire.ca/news&#45;releases/health&#45;canadas&#45;approval&#45;of&#45;taltz&#45;ixekizumab&#45;brings&#45;targeted&#45;therapy&#45;to&#45;canadians&#45;living&#45;with&#45;moderate&#45;to&#45;severe&#45;plaque&#45;psoriasis&#45;583815191.html</Note>
+<Note>June 8, 2016 [Pooled analysis of three studies]
+
+N Engl J Med. 2016 Jun 8. DOI: 10.1056/NEJMoa1512711
+
+Gordon KB, Blauvelt A, Papp KA, Langley RG, Luger T, Ohtsuki M, Reich K, Amato D, Ball SG, Braun DK, Cameron GS, Erickson J, Konrad RJ, Muram TM, Nickoloff BJ, Osuntokun OO, Secrest RJ, Zhao F, Mallbris L, Leonardi CL
+
+Phase 3 Trials of Ixekizumab in Moderate&#45;to&#45;Severe Plaque Psoriasis
+
+Results:
+In the UNCOVER&#45;1 trial, at week 12, the patients had better responses to ixekizumab than to placebo; in the 2&#45;wk dosing group, 81.8% had an sPGA score of 0 or 1 and 89.1% had a PASI 75 response; in the 4&#45;wk dosing group, the respective rates were 76.4% and 82.6%; and in the placebo group, the rates were 3.2% and 3.9% (P&lt;0.001 for all comparisons of ixekizumab with placebo). In the UNCOVER&#45;1 and UNCOVER&#45;2 trials, among the patients who were randomly reassigned at week 12 to receive 80 mg of ixekizumab every 4 weeks, 80 mg of ixekizumab every 12 weeks, or placebo, an sPGA score of 0 or 1 was maintained by 73.8%, 39.0%, and 7.0% of the patients, respectively. Patients in the UNCOVER&#45;3 trial received continuous treatment of ixekizumab from weeks 0 through 60, and at week 60, at least 73% had an sPGA score of 0 or 1 and at least 80% had a PASI 75 response. Adverse events reported during ixekizumab use included neutropenia, candidal infections, and inflammatory bowel disease.
+
+Conclusions
+In three phase 3 trials involving patients with psoriasis, ixekizumab was effective through 60 weeks of treatment. As with any treatment, the benefits need to be weighed against the risks of adverse events. The efficacy and safety of ixekizumab beyond 60 weeks of treatment are not yet known. 
+
+http://www.ncbi.nlm.nih.gov/pubmed/27299809
+http://www.nejm.org/doi/full/10.1056/NEJMoa1512711#t=abstract
+
+[Full text available at source URL]
+http://www.nejm.org/doi/pdf/10.1056/NEJMoa1512711</Note>
+<Note>June 08, 2016
+
+Studies Demonstrate Lilly's Taltz (ixekizumab) Maintained or Achieved High Levels of Skin Clearance for Patients with Moderate&#45;to&#45;Severe Plaque Psoriasis through 60 Weeks: Results Published in the New England Journal of Medicine
+
+INDIANAPOLIS, June 8, 2016 /PRNewswire/ &#45; Eli Lilly and Company announced today that the New England Journal of Medicine has published detailed results from three pivotal Phase 3 studies &#45;UNCOVER&#45;1, UNCOVER&#45;2 and UNCOVER&#45;3 &#45; that demonstrated the efficacy and safety of Taltz (ixekizumab) through 60 weeks in patients with moderate&#45;to&#45;severe plaque psoriasis. This publication also detailed 12&#45;week efficacy data for patients treated with Taltz in UNCOVER&#45;1.
+
+In all three studies, responders to Taltz through 12 weeks demonstrated high levels of skin clearance through 60 weeks...
+
+...Kenneth Gordon, M.D., a professor of dermatology at Northwestern University Feinberg School of Medicine and first author of the paper.
+
+Study Designs
+All three studies evaluated the safety and efficacy of Taltz (80 mg every two weeks, following a 160&#45;mg starting dose) compared to placebo after 12 weeks. UNCOVER&#45;2 and UNCOVER&#45;3 included an additional comparator arm in which patients received etanercept (50 mg twice a week) for 12 weeks. All three studies also evaluated response rates with Taltz every four weeks through 60 weeks. In UNCOVER&#45;1 and UNCOVER&#45;2, patients treated with Taltz who achieved clinical response (static Physician's Global Assessment score [sPGA] 0 or 1) at 12 weeks were re&#45;randomized to receive Taltz (80 mg every four weeks) or placebo through 60 weeks. In UNCOVER&#45;3, all patients completing 12 weeks continued the study receiving Taltz (80 mg every four weeks) through 60 weeks.
+
+In all three studies, the co&#45;primary efficacy endpoints at 12 weeks were Psoriasis Area Severity Index score (PASI) 75 and sPGA 0 or 1. PASI measures the extent and severity of psoriasis by assessing average redness, thickness and scaliness of skin lesions (each graded on a zero to four scale), weighted by the body surface area of involved skin, while the sPGA is the physician's assessment of severity of a patient's psoriasis lesions overall at a specific point in time and is a recommended measure the FDA uses to evaluate effectiveness.1 In all three studies, sPGA and PASI were also assessed through 60 weeks.
+
+Results:
+In UNCOVER&#45;1, Taltz given every two weeks was statistically superior to placebo, with high levels of clearance achieved at 12 weeks among patients treated with Taltz, the majority of whom achieved virtually clear (PASI 90) or completely clear skin (PASI 100, sPGA 0).
+
+&#45; 81.8 percent of patients treated with Taltz achieved sPGA 0 or 1 compared to 3.2 percent of those treated with placebo (p &lt; 0.001).
+&#45; 89.1 percent of patients treated with Taltz achieved PASI 75 compared to 3.9 percent of patients treated with placebo (p &lt; 0.001).
+&#45; 70.9 percent of patients treated with Taltz achieved PASI 90 compared to 0.5 percent treated with placebo (p &lt; 0.001).
+&#45; 35.3 percent of patients treated with Taltz achieved complete resolution of psoriasis plaques (PASI 100) compared to zero patients treated with placebo (p &lt; 0.001).
+
+In UNCOVER&#45;1 and UNCOVER&#45;2, high levels of clearance also were achieved through 60 weeks among patients treated with Taltz every two weeks who achieved clinically meaningful response (sPGA 0 or 1) at 12 weeks, the majority of whom achieved virtually clear or completely clear skin through 60 weeks when treated with Taltz every four weeks. 
+
+In UNCOVER&#45;1 and UNCOVER&#45;2 through 60 weeks:
+&#45; 78.3 percent of patients maintained sPGA 0 or 1.
+&#45; 83.3 percent of patients achieved PASI 75.
+&#45; 76.5 percent of patients achieved PASI 90.
+&#45; More than half of patients (57.5 percent) achieved complete resolution of skin plaques (PASI 100)...
+
+http://files.shareholder.com/downloads/LLY/2251755336x0x895782/521F1FAA&#45;1FEB&#45;4230&#45;AAEF&#45;1783CA5E30A7/LLY_News_2016_6_8_Product.pdf</Note>
+<Note>July 26, 2016
+
+Eli Lilly &gt; Q2 2016 Financial Review
+
+Slide# 6
+Key Events since the last Earning call
+
+Regulatory
+... Received Japanese approval of Taltz for the treatment of patients with plaque psoriasis, psoriatic arthritis, pustular psoriasis and erythrodermic psoriasis after insufficient response to existing treatments;...
+
+http://files.shareholder.com/downloads/LLY/1414690484x0x901212/282CF33D&#45;888A&#45;42E4&#45;AD0D&#45;56B639837636/Q2_2016_Slides.pdf</Note>
+<Note>June 23, 2016 [Additional analysis]
+
+Presented at the 91st Canadian Dermatology Association (CDA) Annual Conference, June 22&#45;25, 2016, Saskatoon, Saskatchewan, Canada
+Abstract No. P9.08
+
+Impact Of Ixekizumab Treatment On Fingernail Psoriasis: Results From UNCOVER&#45;1
+
+Results:
+Mean ( + or &#45; SD) baseline NAPSI was 25.0 + or &#45; 19.2 for patients with psoriatic fingernails. At Week 12, significant (p &lt; 0.001) improvements in NAPSI were observed with IXE Q2W (&#45;7.2 + or &#45; 0.7) and IXE Q4W (&#45;7.2 + or &#45; 0.7) versus PBO (2.2 + or &#45; 0.7). At Week 60 the NAPSI scores were significantly (p &lt; or = 0.003) improved from baseline for ixekizumab&#45;treated responders re&#45;randomized to IXE Q4W (&#45;19.3 + or &#45; 1.0) or Q12W (&#45;12.0 + or &#45; 1.1) versus PBO (&#45;5.8 + or &#45; 1.8). Additionally, at Week 60, PBO&#45;treated non&#45;responders who switched to IXE Q4W at Week 12 experienced a &#45;20.3 + or &#45; 18.9 NAPSI reduction from baseline. The percentage of patients who experienced no nail psoriasis (NAPSI = 0) at 60 weeks was significantly (p &lt; 0.001) higher among ixekizumab&#45;treated responders randomized to IXE Q4W (46.8%) or Q12W (23.1%) versus PBO (1.9%).
+
+Conclusions:
+Significant improvement in fingernail psoriasis was observed by Week 12 in patients receiving ixekizumab versus PBO. Ixekizumab patients demonstrated significant and sustained improvement in nail psoriasis for the 60&#45;week study duration, and a higherpercentage had no nail psoriasis versus PBO. Comparable NAPSI improvement was observed at 60 weeks for placebo&#45;treated patients switched to ixekizumab Q4W at Week 12.
+
+https://eventmobi.com/api/events/11049/documents/download/3bd1d8ba&#45;96a3&#45;44af&#45;9e97&#45;5d095f4887e8.pdf/as/P9.08%20Impact%20of%20ixekizumab%20treatment%20on%20fingernail%20psoriasis%20results%20from%20UNCOVER&#45;1,%20Guenther.pdf</Note>
+<Note>Study Period: 
+
+Study RHAZ was initiated on 06 December 2011 (first patient enrolled/assigned to therapy). The last patient visit prior to database lock for the study report was 24 June 2014 (database lock date 7 Aug 2014).   
+
+http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_&#45;_Public_assessment_report/human/003943/WC500205806.pdf</Note>
+<Note>Region of Enrollment 
+
+Asia: 33
+North America: 673
+Europe: 548
+Central America/South America: 0
+Australia: 42 
+
+http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_&#45;_Public_assessment_report/human/003943/WC500205806.pdf</Note>
+<Note>Disposition of Patients: 
+
+Disposition of Patients 
+
+1660 consented (entered) 
+364 discontinued before randomization
+1296 randomized to treatment for the induction Dosing Period (Period 2)... 
+
+[Refer to Figure 9, 10 and Figure 11 in source URL]
+http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_&#45;_Public_assessment_report/human/003943/WC500205806.pdf</Note>
+<Note>May 8, 2016 [Pooled Additional Analysis]
+
+Br J Dermatol. 2016 Jul;175(1):157&#45;62. doi: 10.1111/bjd.14464.Issue online: 3 August 2016 Version of record online: 8 May 2016 Accepted manuscript online: 8 February 2016 Manuscript Accepted: 2 February 2016 First published: 8 May 2016
+
+Kimball AB, Naegeli AN, Edson&#45;Heredia E, Lin CY, Gaich C, Nika&#239; E, Wyrwich K, Yosipovitch G
+
+RESULTS:
+Test&#45;retest reliability analyses supported the reproducibility of the measure (intraclass correlation coefficient range 0·71&#45;0·74). To support the construct validity of the Itch NRS, large cross&#45;sectional correlations with the Dermatology Life Quality Index (DLQI) Symptoms and Feelings domain (r = 0·60 at baseline and r = 0·80 at week 12) supported a priori hypotheses, while large correlations (r = 0·71) between changes in Itch NRS scores and changes in DLQI Symptoms and Feelings domain scores from baseline to week 12 established responsiveness. A 4&#45;point change was optimal for demonstrating a level of clinically meaningful improvement in itch severity after 12 weeks of treatment, which corresponds with marked clinical improvements in plaque psoriasis.
+
+CONCLUSIONS:
+The Itch NRS demonstrated sufficient reliability, validity and responsiveness, and appropriate interpretation standards for evaluating change over time in itch severity among patients with moderate&#45;to&#45;severe plaque psoriasis when validated using clinical trial data for this condition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26852717
+
+[Full Text available at below link]
+http://onlinelibrary.wiley.com/doi/10.1111/bjd.14464/full
+</Note>
+<Note>CENTER FOR DRUG EVALUATION AND RESEARCH 
+
+SUMMARY REVIEW OF REGULATORY ACTION
+BLA Number: 125521 
+(Proposed) Trade Name Taltz
+Established Name Ixekizumab
+Formulation(s) Solution for sct admin
+
+Page#41
+Table 3: Clinical Trials and their Utilities to Support Clinical Pharmacology Assessments of Ixekizumab for the treatment of psoriasis.
+Clinical Trials: RHAG
+Study design: Phase 3 randomized, double&#45;blind, placebocontrolled, efficacy/safety trial
+Induction to Week 12:
+&#45; Placebo (n=431)
+&#45; &#45; SC 80 mg q4w, 160 mg at Week 0 (n=432)
+&#45; SC 80 mg q2w, 160 mg at Week 0 (n=433)
+At Week 12, ixekizumab sPGA (0,1) responders were rerandomized to placebo, 80 mg q4w and q12w in approximately 1:1:1 ratio
+Formulation: PFS
+Main Clinical Pharmacology data: 
+&#45; Immunogenicity
+&#45; Descriptive PK
+&#45; Population PK
+&#45; E&#45;R analysis for efficacy/safety
+
+Page#47
+Table 4: Listing of Clinical Trials Relevant to BLA 125521
+Controlled Studies to Support Efficacy and Safety in Psoriasis
+Trial Identity: I1F&#45;MC&#45;RHAZ
+LTE&#45;ongoing
+PivotalSafety and Efficacy
+Trial Design: Phase 3, MC,R,DB, PC, parallel group (PG) induction trial (12 weeks) followed by a randomized maintenance period (48 weeks) then a long term extension (LTE) period
+Regimen/ schedule/ route: Ixe SC starting dose of 160 mg Ixe SC 80 mg Q2W or Q4W or placebo up to 12 weeks (Induction) Ixe SC 80 mg Q4W or Q12W or placebo Week 12 to Week 60 (Maintenance)
+Study Endpoints: 1? efficacy at 12 weeks
+1. Proportion of patients with a static Physician Global Assessment (sPGA) (0,1) with at least a 2&#45;point improvement from baseline
+2. Proportion of patients achieving at least a 75% improvement from baseline in Psoriasis Area and Severity Index (PASI)score (PASI 75) from baseline
+Treatment Duration/ Follow Up: 4 weeks (wks) LTE&#45;up to 5 years (yrs)
+No. of patients enrolled: 1296
+865&#45; Ixe
+431&#45;placebo
+Study Population: Chronic plaque psoriasis, adults, BSA &gt; or =10%, PASI&gt; or =12, PGA&gt; or = 3
+
+No.of countries: 105 sites
+US&#45;33
+Canada&#45;14
+Germany&#45;
+17
+Poland&#45;9
+Romania&#45;4
+Denmark&#45;2
+Italy&#45;2
+UK&#45;4
+Australia&#45;6
+Hungary&#45;7
+Japan&#45;10
+
+http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/125521Orig1s000MedR.pdf</Note>
+<Note>December 24, 2016 [Post&#45;hoc Analysis]
+
+J Am Acad Dermatol. 2016 Dec 24. pii: S0190&#45;9622(16)31002&#45;7. doi: 10.1016/j.jaad.2016.10.027.
+
+Published online: December 24, 2016
+Accepted: October 16, 2016
+
+Reich K, Leonardi C, Langley RG, Warren RB, Bachelez H, Romiti R, Ohtsuki M, Xu W, Acharya N, Solotkin K, Colombel JF, Hardin DS
+
+Inflammatory bowel disease among patients with psoriasis treated with ixekizumab: A presentation of adjudicated data from an integrated database of 7 randomized controlled and uncontrolled trials.
+
+RESULTS:
+In all, 4209 patients (6480 patient&#45;exposure years) were exposed to ixekizumab. Suspected CD (N = 12) or UC (N = 17) AEs were reported; 19 were adjudicated as definite/probable IBD (CD, N = 7, incidence rate = 1.1/1000 patient&#45;exposure years; UC, N = 12, incidence rate = 1.9/1000 patient&#45;exposure years). Among these, 3 occurred during induction (CD, N = 1; UC, N = 2) and 7 during maintenance (CD, N = 4; UC, N = 3). Twelve of 16 patients with reported IBD history have not had an IBD treatment&#45;emergent AE/serious AE to date.
+
+LIMITATIONS:
+Clinical review (adjudication) was not prespecified. AE data collected post&#45;hoc may have been limited by length of time from occurrence.
+
+CONCLUSION:
+From an integrated database of 7 ixekizumab psoriasis trials, CD and UC cases were uncommon (&lt;1%).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28026199
+[Full article is available at the below URL]
+http://www.jaad.org/article/S0190&#45;9622(16)31002&#45;7/fulltext</Note>
+<Note>January 10, 2017 [Post&#45;hoc Analysis]
+
+Am J Clin Dermatol. 2017 Jan 10. doi: 10.1007/s40257&#45;016&#45;0246&#45;9
+
+Blauvelt A, Papp KA, Griffiths CE, Puig L, Weisman J, Dutronc Y, Kerr LF, Ilo D, Mallbris L, Augustin M
+
+Efficacy and Safety of Switching to Ixekizumab in Etanercept Non&#45;Responders: A Subanalysis from Two Phase III Randomized Clinical Trials in Moderate&#45;to&#45;Severe Plaque Psoriasis (UNCOVER&#45;2 and &#45;3).
+
+RESULTS:
+After switching to ixekizumab Q4W, a substantial proportion of patients with moderate&#45;to&#45;severe psoriasis who did not respond to etanercept experienced rapid and durable improvement in all efficacy evaluations. Among sPGA 0/1 (UNCOVER&#45;2) and PASI 75 (UNCOVER&#45;3) non&#45;responders to etanercept, 73.0% achieved sPGA 0/1 and 78.2% achieved PASI 75, respectively, after 12 weeks of ixekizumab treatment. Safety profiles in patients switched from etanercept to ixekizumab were similar to those in patients switched from placebo to ixekizumab.
+
+CONCLUSION:
+Patients who were non&#45;responders to etanercept after 12 weeks, as defined by failure to meet sPGA 0/1 (UNCOVER&#45;2) or PASI 75 (UNCOVER&#45;3), achieved high levels of response 12 weeks after switching to ixekizumab. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/28074446
+http://link.springer.com/article/10.1007%2Fs40257&#45;016&#45;0246&#45;9</Note>
+<Note>Disposition of Patients: 
+
+Patient Flow for UNCOVER&#45;1 Weeks 0&#45;60 
+
+1296 Patients Randomized 
+
+&#45; 431 PBO 
+24 D/C Study Drug: 6 adverse events, 7 lack of efficacy, 3 protocol Violation, 6 subject decision, 1 sponsor decision, 1 lost&#45;to&#45;follow up 
+407 completed Wk 12 
+&#45;&#45; 16 Responders at Wk 12 
+&#45;&#45;&#45;&#45; 9 relapsed, 1 D/C study drug (1 subject decision) 
+6 completed Wk 60
+&#45;&#45; 391 NR at Wk 12 
+&#45;&#45;&#45;&#45; 41 D/C Study Drug: 19 adverse events, 11 lack of efficacy, 1 protocol Violation, 6 subject decision, 2 sponsor decision, 2 lost&#45;to&#45;follow up 
+350 completed Wk 60 
+
+&#45; 432 IXE Q4W 
+24 D/C Study Drug: 10 adverse events, 6 lack of efficacy, 6 protocol Violation, 6 subject decision, 1 sponsor decision 
+407 completed Wk 12 
+&#45;&#45; 78 NR at Wk 12 
+&#45;&#45; 329 Responders at Wk 12 
+
+&#45; 433 IXE Q2W  
+18 D/C Study Drug: 10 adverse events, 5 subject decision, 1 sponsor decision, 2 lost&#45;to&#45;follow up 
+415 completed Wk 12 
+&#45;&#45; 62 NR at Wk 12 
+&#45;&#45; 353 Responders at Wk 12 
+
+329 Responders at Wk 12 (of 432 IXE Q4W arm) and 353 Responders at Wk 12 (of 433 IXE Q2W arm) are redivided: 
+&#45; 226 re&#45;randomized to PBOQ4W 
+&#45;&#45;&#45;&#45;&#45;&#45; 186 relapsed, 16 D/C study drug (4 adverse events, 1 lack of efficacy, 1 protocol Violation, 6 subject decision, 1 clinical relapse, 3 lost&#45;to&#45;follow up) 
+24 completed Wk 60
+
+&#45; 227 re&#45;randomized to IXE Q12W 
+&#45;&#45;&#45;&#45;&#45;&#45; 111 relapsed, 13 D/C study drug (2 adverse events, 2 subject decision, 3 lost&#45;to&#45;follow up) 
+108 completed Wk 60
+
+&#45; 229 re&#45;randomized to IXE Q4W 
+&#45;&#45;&#45;&#45;&#45;&#45; 39 relapsed, 13 D/C study drug (7 adverse events, 3 subject decision, 2 death 1 investigator decison) 
+117 completed Wk 60 
+
+[See table at source URL] 
+http://www.nejm.org/doi/suppl/10.1056/NEJMoa1512711/suppl_file/nejmoa1512711_appendix.pdf </Note>
+<Note>Full Study Protocol: 
+
+Page No.: 3 to 672 
+http://www.nejm.org/doi/suppl/10.1056/NEJMoa1512711/suppl_file/nejmoa1512711_protocol.pdf </Note>
+<Note>February 11, 2017 [Pooled analysis]
+
+J Eur Acad Dermatol Venereol. 2017 Feb 11. doi: 10.1111/jdv.14163 Accepted manuscript online: 11 February 2017 Manuscript Accepted: 13 January 2017 Manuscript Received: 23 September 2016
+
+Blauvelt A, Papp KA, Sofen H, Augustin M, Yosipovitch G, Katoh N, Mrowietz U, Ohtsuki M, Poulin Y, Shrom D, Burge R, See K, Mallbris L, Gordon KB.
+
+Continuous dosing versus interrupted therapy with ixekizumab: an integrated analysis of two phase 3 trials in psoriasis.
+
+RESULTS:
+1226 treated patients achieved an sPGA 0,1 at Week 12 and entered the maintenance phase; of these patients, 402 and 416 were re&#45;randomized to PBO and IXEQ4W, respectively. Among patients interrupting treatment, 157 (82.2%) of IXEQ4W/PBO and 176 (83.4%) of IXEQ2W/PBO had an sPGA =3 by Week 60; median time to relapse was approximately 20 weeks irrespective of induction dose. At Week 60, continuously treated patients maintained high levels of PASI and sPGA responses (90.0% PASI 75 IXEQ2W/Q4W; 81.9% sPGA 0,1 IXEQ2W/Q4W, Non&#45;Responder Imputation). After 24 weeks of retreatment with IXEQ4W (IXEQ2W/PBO and IXEQ4W/PBO), 87.0% (107/123) and 95.1% (97/102) (observed), respectively, of patients recaptured PASI 75 and 70.7% (104/147) and 82.3% (107/130) (observed) recaptured an sPGA 0,1. Overall, adverse events in continuously treated and retreated patients were comparable.
+
+CONCLUSION:
+High levels of response were sustained with continuous ixekizumab treatment through 60 weeks. Most patients who were withdrawn experienced disease relapse and most of those patients recaptured response after 24 weeks of retreatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28190255
+http://onlinelibrary.wiley.com/doi/10.1111/jdv.14163/abstract</Note>
+<Note>March 3, 2017 [Pooled analysis]
+
+Presented at the 75th Annual Meeting of American Academy of Dermatology (AAD), March 3&#45;7, 2017, Orlando, FL
+Abstract #: 4551
+
+Andrew Blauvelt, Talia Muram, Kyoungah See, Jeff Crowley, Peter van de Kerkhof
+
+Clearing of Psoriasis within Different Body Regions Following 12 Weeks of Treatment with Ixekizumab
+
+Results: 
+At week 12, patients (IXE Q2W, IXE Q4W, PBO, and ETN, respectively) achieving PASI 75 were 83.4%, 78.0%, 10.1%, and 60.7% (head); 88.0%, 81.9%, 7.1%, and 57.2% (trunk); 86.6%, 78.4%, 5.9%, and 49.2% (arms); and 84.8%, 77.9%, 5.6%, and 43.9% (legs). Patients (IXE Q2W, IXE Q4W, PBO, and ETN) achieving PASI 90 were 74.3%, 69.6%, 6.4%, and 48.8% (head); 77.9%; 70.9%, 3.7%, and 38.9% (trunk); 67.3%, 60.4%, 1.5%, and 24.5% (arms); and 64.2%, 59.3%, 1.4%, and 20.0% (legs). Patients (IXE Q2W, IXE Q4W, PBO, and ETN) achieving PASI 100 were 67.5%, 63.7%, 5.3%, and 42.0% (head); 67.0%, 63.1%, 3.2%, and 32.8% (trunk); 57.2%, 50.6%, 1.0%, and 17.6% (arms); and 50.6%, 46.8%, 0.8%, and 12.8% (legs). At week 12, PASI 75/90/100 responses at each body region for IXE&#45;treated patients were significantly greater than patients treated with PBO or ETN (p&lt; 0.001). For each body region, mean percent improvements in PASI for IXE Q2W&#45; and IXE Q4W&#45;treated patients were significantly greater than PBO&#45; and ETN&#45;treated patients by week 1 (p&lt; 0.001). 
+
+Conclusions: 
+IXE&#45;treated patients showed statistically significant clinical responses in plaque psoriasis up to 12 weeks at each body region compared with PBO&#45; and ETN&#45;treated patients. The highest response rates for PASI 90 and 100 were on the head and trunk followed by arms and legs for IXE&#45;treated patients.
+
+https://www.aad.org/eposters/view/Abstract.aspx?id=4551
+https://www.aad.org/eposters/Submissions/getFile.aspx?id=4551&amp;type=sub</Note>
+</Notes>
+  <LastModified>04/05/2017</LastModified>
+  <LastFullReview>10/18/2016</LastFullReview>
+  <RecordURL>http://lilly.citeline.com/xt_view.asp?trialID=148989&amp;target=10</RecordURL>
+  <CopyrightNotice>Data from TrialTrove clinical trials monitoring database. Copyright Citeline. 2007&#45;2017.</CopyrightNotice>
+</ClinicalTrial>
